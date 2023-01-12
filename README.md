@@ -11,7 +11,7 @@ Oppsummering:
 - Planlagt kalender :white_check_mark:
 - Ordnet teams :white_check_mark:
 - Laget Github :white_check_mark:
-- Romsøknad
+- Romsøknad :white_check_mark:
 
 Til neste gang: 
 - Bruke informasjonen fra forelesning 13.01.2023
