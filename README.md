@@ -5,9 +5,9 @@ Sett på linkene Espen har sendt oss;
 https://github.com/IQTLabs/AISonobuoy/tree/main/Hydrophone
 
 Agenda : 
-- Begynne på forstudiet (arbeidskrav)
+- Begynne på forstudiet (arbeidskrav) :white_check_mark:
 - Teste utstyret med
-  - PC
+  - PC :white_check_mark:
   - Oscilloscop
 
 Oppsummering: 
@@ -15,10 +15,11 @@ Oppsummering:
 - Har integrert oss på D423
 - Har testet utstyr
   - På PC/Audacity : Ble litt kjent med spektogram, og testet med interne lydopptak fra egen PC
-  - På Oscilloscop :
+  - På oscilloscop : Mistenker at vi mangler en ledning, send mld til Espen ang dette. 
 
 Til neste gang:
 - Skrive forstudie med egne ord (lekse til neste gang?)
+- Teste utstyr på oscilloscop
 
 ## Torsdag 12.01.2023 :face_in_clouds:
 Første dag vi gadd å møte på skolen etter juleferien.
