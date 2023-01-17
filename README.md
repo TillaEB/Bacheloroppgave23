@@ -1,5 +1,15 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
+## Tirsdag 17.01.2021 :woman_technologist:
+Sett på linkene Espen har sendt oss;
+https://github.com/IQTLabs/AISonobuoy/tree/main/Hydrophone
+
+Agenda : 
+- Begynne på forstudiet (arbeidskrav)
+- Teste utstyret med
+  - PC
+  - Oscilloscop
+
 ## Torsdag 12.01.2023 :face_in_clouds:
 Første dag vi gadd å møte på skolen etter juleferien.
 
