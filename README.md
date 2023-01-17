@@ -15,7 +15,7 @@ Oppsummering:
 - Har integrert oss på D423
 - Har testet utstyr
   - På PC/Audacity : Ble litt kjent med spektogram, og testet med interne lydopptak fra egen PC
-  - På oscilloscop : Mistenker at vi mangler en ledning, send mld til Espen ang dette. 
+  - På oscilloscop : Mistenker at vi mangler en ledning, send mld til Espen ang dette. Oppdatering - fikk raskt svar og fikk det til å fungere! :) 
 
 Til neste gang:
 - Skrive forstudie med egne ord (lekse til neste gang?)
