@@ -13,7 +13,7 @@ Agenda :
 Oppsummering: 
 
 Til neste gang:
-- Skrive forstudie med egene ord (lekse til neste gang?)
+- Skrive forstudie med egne ord (lekse til neste gang?)
 
 ## Torsdag 12.01.2023 :face_in_clouds:
 Første dag vi gadd å møte på skolen etter juleferien.
