@@ -11,6 +11,11 @@ Agenda :
   - Oscilloscop
 
 Oppsummering: 
+- Skrevet en del stikkord på forstudiet (arbeidskravet) 
+- Har integrert oss på D423
+- Har testet utstyr
+  - På PC/Audacity : Ble litt kjent med spektogram, og testet med interne lydopptak fra egen PC
+  - På Oscilloscop :
 
 Til neste gang:
 - Skrive forstudie med egne ord (lekse til neste gang?)
