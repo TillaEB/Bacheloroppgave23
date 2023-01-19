@@ -7,6 +7,9 @@ Agenda :
 - Teste ut arduino
 - Høre med Frøysa ang. konkretisering av problemstilling
   - Skrive mer på forstudiet
+  
+Liste over ting vi trenger:
+- TRS kabel (3.5 mm?)
 
 ## Tirsdag 17.01.2023 :woman_technologist:
 Sett på linkene Espen har sendt oss;
