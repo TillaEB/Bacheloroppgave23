@@ -1,6 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
-## Tirsdag 17.01.2021 :woman_technologist:
+## Torsdag 19.01.2023 :ok_woman:
+Litt trøtte og forsinket i dag men det går bra. 
+
+Agenda : 
+- Teste ut arduino
+- Høre med Frøysa ang. konkretisering av problemstilling
+  - Skrive mer på forstudiet
+
+## Tirsdag 17.01.2023 :woman_technologist:
 Sett på linkene Espen har sendt oss;
 https://github.com/IQTLabs/AISonobuoy/tree/main/Hydrophone
 
@@ -8,7 +16,7 @@ Agenda :
 - Begynne på forstudiet (arbeidskrav) :white_check_mark:
 - Teste utstyret med
   - PC :white_check_mark:
-  - Oscilloscop
+  - Oscilloscop :white_check_mark:
 
 Oppsummering: 
 - Skrevet en del stikkord på forstudiet (arbeidskravet) 
