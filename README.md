@@ -9,9 +9,16 @@ Agenda :
   - Skrive mer på forstudiet
   
 Liste over ting vi trenger:
-- TRS kabel (3.5 mm?)
-- USB type B
-- 6.35 mm Jack
+- 6.35 mm Jack (koblingsboksen)
+- 3.55 mm Jack
+
+Oppsummering :
+- Research på arduino, oppkobling, hydrofoner
+- Laget spilleliste + claimet plassen vår
+- Skrevet litt på forstudiet (gjort om stikkord til hele setninger)
+
+Til neste gang :
+- Konkretiserie / komme med forslag til problemstilling(er)
 
 ## Tirsdag 17.01.2023 :woman_technologist:
 Sett på linkene Espen har sendt oss;
