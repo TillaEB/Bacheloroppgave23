@@ -20,6 +20,16 @@ Oppsummering :
 Til neste gang :
 - Konkretiserie / komme med forslag til problemstilling(er)
 
+linker:
+- https://www.instructables.com/Arduino-Frequency-Detection/
+- https://www.instructables.com/Arduino-Audio-Input/
+- http://www.whatimade.today/lets-make-some-signal-processing-with-an-arduino/
+- https://docs.arduino.cc/tutorials/zero/simple-audio-frequency-meter#hardware-required
+- https://forum.arduino.cc/t/how-to-hook-up-a-3-5mm-audio-jack-to-a-circuit-to-read-in-analog-input/617778/25?fbclid=IwAR2s8m6XihJlsp6Nbc5Vwe3mSRSOb4dS0IE9isNurclDKO9T65S5VbDtVkY
+- https://hackaday.com/2022/02/19/diy-hydrophone-listens-in-on-the-deep-for-cheap/#more-523850
+- https://github.com/IQTLabs/AISonobuoy/blob/main/Hydrophone/media/board_program.jpeg
+- https://github.com/IQTLabs/AISonobuoy/tree/main/Hydrophone
+
 ## Tirsdag 17.01.2023 :woman_technologist:
 Sett på linkene Espen har sendt oss;
 https://github.com/IQTLabs/AISonobuoy/tree/main/Hydrophone
