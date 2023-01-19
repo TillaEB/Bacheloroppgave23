@@ -6,7 +6,8 @@ Litt trøtte og forsinket i dag men det går bra.
 Agenda : 
 - Teste ut arduino
 - Høre med Frøysa ang. konkretisering av problemstilling
-  - Skrive mer på forstudiet
+  - Skrive mer på forstudiet :white_check_mark:
+- Gjøre research ang løsninger med arduino :white_check_mark:
   
 Liste over ting vi trenger:
 - 6.35 mm Jack (koblingsboksen)
@@ -16,9 +17,12 @@ Oppsummering :
 - Research på arduino, oppkobling, hydrofoner
 - Laget spilleliste + claimet plassen vår
 - Skrevet litt på forstudiet (gjort om stikkord til hele setninger)
+- Fikk ikke testet ut arduino da vi mangler en ledning, har likevel fått gjort mye research
 
 Til neste gang :
 - Konkretiserie / komme med forslag til problemstilling(er)
+- Jobbe med forstudiet
+- Snakke med Kjell Eivind Frøysa, diskutere linkene vi har funnet hittil - er vi på rett spor?
 
 linker:
 - https://www.instructables.com/Arduino-Frequency-Detection/
