@@ -2,11 +2,11 @@
 
 ## Fredag 20.01.2023 :ear_of_rice:
 Agenda :
-- Konkretiserie / komme med forslag til problemstilling(er)
-- Jobbe det vi kan med forstudiet
-- Lage sharepoint
-- Lage tidsplan
-- Lage liste over alt som skal gjøres
+- Konkretiserie / komme med forslag til problemstilling(er) :white_check_mark:
+- Jobbe det vi kan med forstudiet :white_check_mark:
+- Lage sharepoint :white_check_mark:
+- Lage tidsplan :white_check_mark:
+- Lage liste over alt som skal gjøres 
 - Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
 
 Oppsummering : 
@@ -27,9 +27,14 @@ På møte må vi få avklart en del ting som foreløpig er uklart:
  Etter møte mp vi skrive på forstudiet. Da kan vi skrive på problemstilling, krav, løsning vi har tenkt (link) osv. 
 Forstudiet bør vi kanskje kunne klare å gjøre ferdig før tirsdag 31, slik av vi kan avtale et møte den dagen (31) - hvis det passer, for å gå igjennom forstudiet vi har skrevet, slik Svein sa vi burde gjøre. 
 
+- Laget sharepoint; https://hvl365.sharepoint.com/sites/BO23EB-17NansenHydrofon/SitePages/TrainingHome.aspx
+
 Til neste gang :
 - Møte hos NERSC 24.01.2023
   - Ta opp div spm vi har lagt frem
+- Forbedre tidsplan
+- Sette opp ting som skal gjøres
+- Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
 
 ## Torsdag 19.01.2023 :ok_woman:
 Litt trøtte og forsinket i dag men det går bra. 
