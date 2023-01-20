@@ -11,6 +11,22 @@ Agenda :
 
 Oppsummering : 
 
+Plan for forstudiet:
+Vi skirver på det som kan skrives på frem til møte tirsdag - aller mest på info om oppdragsgiver og litt på løsningforslag. 
+Tidsplan, timelister, liste over alt som skal gjøres, research på mulige løsninger, sette opp et rammeverk på hvordan dokumenter skla navngis og revideres bør gjøres før det. 
+
+På møte må vi få avklart en del ting som foreløpig er uklart: 
+- Hva er ønskelig at problemstllingen skla være? 
+- Hva er mulig for oss å gjøre, med tanke på kompetanse og tid. 
+- Hvilke krav stiller Espen/Frøysa
+  - Er det noe spesielt som Esoen vil vi skla ha med eller gjøre? 
+ - Hvis arduino eksemplene fra linken er det som er ønskelig at vi skal gjøre. Vil dette være en for liten opppgave? Hva skal eventuelt gjøres etterpå? 
+  - kretskort som det var snakk om har vi ikke kompetanse til 
+ - Hvem skal ha ansvar for innkjøp av komponenter? 
+ 
+ Etter møte mp vi skrive på forstudiet. Da kan vi skrive på problemstilling, krav, løsning vi har tenkt (link) osv. 
+Forstudiet bør vi kanskje kunne klare å gjøre ferdig før tirsdag 31, slik av vi kan avtale et møte den dagen (31) - hvis det passer, for å gå igjennom forstudiet vi har skrevet, slik Svein sa vi burde gjøre. 
+
 Til neste gang :
 - Møte hos NERSC 24.01.2023
   - Ta opp div spm vi har lagt frem
