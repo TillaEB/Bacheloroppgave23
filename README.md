@@ -1,5 +1,20 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
+## Fredag 20.01.2023 :ear_of_rice:
+Agenda :
+- Konkretiserie / komme med forslag til problemstilling(er)
+- Jobbe det vi kan med forstudiet
+- Snakke med Kjell Eivind Frøysa
+- Lage tidsplan
+- Lage liste over alt som skal gjøres
+- Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
+
+Oppsummering : 
+
+Til neste gang :
+- Møte hos NERSC 24.01.2023
+  - Ta opp div spm vi har lagt frem
+
 ## Torsdag 19.01.2023 :ok_woman:
 Litt trøtte og forsinket i dag men det går bra. 
 
