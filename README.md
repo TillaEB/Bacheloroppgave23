@@ -4,7 +4,7 @@
 Agenda :
 - Konkretiserie / komme med forslag til problemstilling(er)
 - Jobbe det vi kan med forstudiet
-- Snakke med Kjell Eivind Frøysa
+- Lage sharepoint
 - Lage tidsplan
 - Lage liste over alt som skal gjøres
 - Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
