@@ -5,10 +5,10 @@ Agenda:
 - Møte hos NERSC 24.01.2023
   - Ta opp div spm vi har lagt frem
   - Foreslå nytt møte torsdag 02.02.2023
-- Forbedre tidsplan
-- Sette opp ting som skal gjøres
-- Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
-- Skrive på forstudiet
+- Forbedre tidsplan :white_check_mark:
+- Sette opp ting som skal gjøres :white_check_mark:
+- Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det :white_check_mark:
+- Skrive på forstudiet :white_check_mark:
 
 Oppsummering:
 
