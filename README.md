@@ -1,5 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
+## Tirsdag 24.01.2023
+
+
+Hvordan skirve revisjonene:
+- 0.X under arbeid
+- 1.X levert 
+- 1.1 korrigert eller under arbeid 
+Husk at filen skal lagres med R revisjon
+
 ## Fredag 20.01.2023 :ear_of_rice:
 Agenda :
 - Konkretiserie / komme med forslag til problemstilling(er) :white_check_mark:
@@ -16,7 +25,7 @@ Vi skirver på det som kan skrives på frem til møte tirsdag - aller mest på i
 Tidsplan, timelister, liste over alt som skal gjøres, research på mulige løsninger, sette opp et rammeverk på hvordan dokumenter skla navngis og revideres bør gjøres før det. 
 
 På møte må vi få avklart en del ting som foreløpig er uklart: 
-- Hva er ønskelig at problemstllingen skla være? 
+- Hva er ønskelig at problemstllingen skal være? 
 - Hva er mulig for oss å gjøre, med tanke på kompetanse og tid. 
 - Hvilke krav stiller Espen/Frøysa
   - Er det noe spesielt som Esoen vil vi skla ha med eller gjøre? 
@@ -24,8 +33,8 @@ På møte må vi få avklart en del ting som foreløpig er uklart:
   - kretskort som det var snakk om har vi ikke kompetanse til 
  - Hvem skal ha ansvar for innkjøp av komponenter? 
  
- Etter møte mp vi skrive på forstudiet. Da kan vi skrive på problemstilling, krav, løsning vi har tenkt (link) osv. 
-Forstudiet bør vi kanskje kunne klare å gjøre ferdig før tirsdag 31, slik av vi kan avtale et møte den dagen (31) - hvis det passer, for å gå igjennom forstudiet vi har skrevet, slik Svein sa vi burde gjøre. 
+Etter møte må vi skrive på forstudiet. Da kan vi skrive på problemstilling, krav, løsning vi har tenkt (link) osv. 
+Forstudiet bør vi kanskje kunne klare å gjøre ferdig før torsdag, slik av vi kan avtale et møte den dagen (2) - hvis det passer, for å gå igjennom forstudiet vi har skrevet, slik Svein sa vi burde gjøre. 
 
 - Laget sharepoint; https://hvl365.sharepoint.com/sites/BO23EB-17NansenHydrofon/SitePages/TrainingHome.aspx
 
