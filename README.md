@@ -1,13 +1,24 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
-## Tirsdag 24.01.2023
+## Tirsdag 24.01.2023 :clock9:
+Agenda:
+- Møte hos NERSC 24.01.2023
+  - Ta opp div spm vi har lagt frem
+- Forbedre tidsplan
+- Sette opp ting som skal gjøres
+- Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
+- Skrive på forstudiet
 
+Oppsummering:
 
-Hvordan skirve revisjonene:
+Hvordan skrive revisjonene:
 - 0.X under arbeid
 - 1.X levert 
 - 1.1 korrigert eller under arbeid 
 Husk at filen skal lagres med R revisjon
+
+Til neste gang: 
+- Skrive på forstudiet - nå som vi har fått mer informasjon
 
 ## Fredag 20.01.2023 :ear_of_rice:
 Agenda :
