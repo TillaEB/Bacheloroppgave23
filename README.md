@@ -4,6 +4,7 @@
 Agenda:
 - Møte hos NERSC 24.01.2023
   - Ta opp div spm vi har lagt frem
+  - Foreslå nytt møte torsdag 02.02.2023
 - Forbedre tidsplan
 - Sette opp ting som skal gjøres
 - Rammeverk på hvordan dokumenter skal navngis. Revidering bør kunne gjøres før det
