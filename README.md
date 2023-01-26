@@ -2,16 +2,19 @@
 
 ## Torsdag 26.01.2023 
 Agenda: 
-- Skrive på forstudie
+- Skrive og jobbe på forstudie
 
 Oppsummering:
-
-Til neste gang:
-- Tidsplan (!!!)
-
+- Fikk skrevet en del på forstudie
+- Snakket med Frøysa og blitt litt klokere på div ting vi har lurt på 
+  - Hva er fokuset vårt i oppgaven?
 GPS modul: 
 - https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
 
+Til neste gang:
+- Tidsplan (!!!)
+- Skrive liste til komponenter vi trenger
+- Jobbe med forstudiet
 
 ## Tirsdag 24.01.2023 :clock9:
 Agenda:
