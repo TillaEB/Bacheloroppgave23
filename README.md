@@ -8,6 +8,7 @@ Oppsummering:
 - Fikk skrevet en del på forstudie
 - Snakket med Frøysa og blitt litt klokere på div ting vi har lurt på 
   - Hva er fokuset vårt i oppgaven?
+
 GPS modul: 
 - https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
 
