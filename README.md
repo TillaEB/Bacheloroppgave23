@@ -12,6 +12,20 @@ Agenda:
 
 Oppsummering:
 
+Notater fra møte:
+- GPS med arduino - sync med GPS
+- Forsterker mellom arduino og hydrofon, lavstøy
+- Sync av klokke - arduino sin klokke er ikke den beste
+- Datalagring, power (?)
+- Mulighet for å slå på; magnet?
+- PAMguide
+- Spesielt å ha med:
+  - variabel sample-frekvens
+  - sette sample-frekvens
+  - strømforsyning (3,3V) - arduino, forsterker, hydrofon (5V)
+  - Fordeler og ulemper med arduino
+  - Måte å konfiguerere - knapp/bryter?
+
 Hvordan skrive revisjonene:
 - 0.X under arbeid
 - 1.X levert 
