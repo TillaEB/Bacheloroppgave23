@@ -7,6 +7,7 @@ Agenda:
 Oppsummering:
 
 Til neste gang:
+- Tidsplan (!!!)
 
 ## Tirsdag 24.01.2023 :clock9:
 Agenda:
