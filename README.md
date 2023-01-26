@@ -1,13 +1,16 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
-## Torsdag 26.01.2023 
+## Torsdag 26.01.2023 🧠
 Agenda: 
-- Skrive og jobbe på forstudie
+- Skrive og jobbe på forstudie ✅
+- Research ✅
 
 Oppsummering:
-- Fikk skrevet en del på forstudie
+- Fikk skrevet en del på forstudiet
 - Snakket med Frøysa og blitt litt klokere på div ting vi har lurt på 
   - Hva er fokuset vårt i oppgaven?
+- Gjort mye research på komponenter
+- Har kommet frem til en løsning
 
 GPS modul: 
 - https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
@@ -15,7 +18,7 @@ GPS modul:
 Til neste gang:
 - Tidsplan (!!!)
 - Skrive liste til komponenter vi trenger
-- Jobbe med forstudiet
+- Jobbe med forstudiet - skrive om
 
 ## Tirsdag 24.01.2023 :clock9:
 Agenda:
