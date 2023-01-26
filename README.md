@@ -9,6 +9,10 @@ Oppsummering:
 Til neste gang:
 - Tidsplan (!!!)
 
+GPS modul: 
+- https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/
+
+
 ## Tirsdag 24.01.2023 :clock9:
 Agenda:
 - Møte hos NERSC 24.01.2023
