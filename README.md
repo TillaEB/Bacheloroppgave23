@@ -1,5 +1,13 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 
+## Torsdag 26.01.2023 
+Agenda: 
+- Skrive på forstudie
+
+Oppsummering:
+
+Til neste gang:
+
 ## Tirsdag 24.01.2023 :clock9:
 Agenda:
 - Møte hos NERSC 24.01.2023
