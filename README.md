@@ -1,18 +1,20 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Tirsdag 31.01.2023 :eyes:
 Agenda:
-- Skrive og jobbe på forstudie
-- Gjennomføre planlegging av tidsplan
+- Skrive og jobbe på forstudie ✅
+- Gjennomføre planlegging av tidsplan ✅
 
 Oppsummering
 - Gjort klar tidsplanen
 - Skrevet en del på forstudie
-  - Mangler 1 punkt, og litt omskriving
+  - Mangler noen punkt, samt omskriving
+- Tilla har laget liste over komponenter vi trenger + pris for disse
 
 Til neste gang:
 - Fullføre forstudie
+  - Mangler noen punkt, samt omskriving
   - Sende forstudie til veiledere
-  - Sende med spørsmål vi lurer på?
+- Gjøre klar spørsmål til fredag?
 
 ## Torsdag 26.01.2023 🧠
 Agenda: 
@@ -31,7 +33,7 @@ GPS modul:
 
 Til neste gang:
 - Tidsplan (!!!)
-- Skrive liste til komponenter vi trenger
+- Skrive liste til komponenter vi trenger 
 - Jobbe med forstudiet - skrive om
 
 ## Tirsdag 24.01.2023 :clock9:
