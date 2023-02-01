@@ -215,4 +215,4 @@ Til neste gang:
 - Planlegge semesteret :white_check_mark:
 - Adminarbeid :white_check_mark:
 
-Neste møte: Fysisk møte den 2023-01-24 kl 1400-1530 på NERSC (møterom Sentinel). Kalenderinvitasjon er sendt ut.
+
