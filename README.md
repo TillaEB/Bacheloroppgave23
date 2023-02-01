@@ -1,11 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Onsdag 01.02.2023
+## Onsdag 01.02.2023 :dress:
 Agenda:
 - Bli ferdig med forstudie ✅
-- Sende forstudiet til veiledere
+- Sende forstudiet til veiledere ✅
+- Gjøre klar spørsmål til neste møte ✅
 
 Oppsummering:
 - Skrevet ferdig forstudie
+- Sendt forstudiet til veilederne
+- Gjort klart spørsmål til neste møte
 
 Til neste gang:
 - Lære oss Latex
