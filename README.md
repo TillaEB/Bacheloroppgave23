@@ -1,17 +1,20 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Fredag 03.02.2023 
 Agenda:
-- Rette opp i tilbakemeldingene fra forstudiet R 0.1
-- Levere forstudiet
+- Rette opp i tilbakemeldingene fra forstudiet R 0.1 ✅
+- Levere forstudiet ✅
 - Levere rettleiingsavtale
 
 Oppsummering:
+- Fått rettet opp og levert forstudiet
+- Fått samtlige underskrifter nødvendig for rettleiingsavtale, skannet det og levert inn. 
 
 Fra møtet: 
 - beskytte lydkilden - forbedre signalet fordi det er svak ut fra hydrofonen  
 - batteri vil være begrensningen 
 - bør vise at minne ikke vil ha begrensning  
 - NMEA 
+- Avtalt møte for å teste hydrofonen "i feltet". 
 
 Til neste gang:
 
