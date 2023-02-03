@@ -8,7 +8,8 @@ Agenda:
 Oppsummering:
 - Fått rettet opp og levert forstudiet
 - Fått samtlige underskrifter nødvendig for rettleiingsavtale, skannet det og levert inn. 
-- Tester ut utstyret
+- Fått utstyr fra veileder
+  - Tester ut utstyret
 
 Fra møtet: 
 - beskytte lydkilden - forbedre signalet fordi det er svak ut fra hydrofonen  
