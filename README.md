@@ -1,10 +1,18 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Fredag 03.02.2023 
+Agenda:
+- Rette opp i tilbakemeldingene fra forstudiet R 0.1
+- Levere forstudiet
+
+Oppsummering:
+
 Fra møtet: 
 - beskytte lydkilden - forbedre signalet fordi det er svak ut fra hydrofonen  
 - batteri vil være begrensningen 
 - bør vise at minne ikke vil ha begrensning  
 - NMEA 
+
+Til neste gang:
 
 ## Onsdag 01.02.2023 :dress:
 Agenda:
