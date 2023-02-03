@@ -32,6 +32,10 @@ Fra møtet:
 - Avtalt møte for å teste hydrofonen "i feltet". 
 
 Til neste gang:
+- Starte med å koble opp hydrofonen til Arduino
+- Bruke helgen til å laste ned Latex og gjøre litt selvstudie på Latex
+- Bruke helgen til å sjekke ut linker for oppkobling av hydrofon
+- Eira må ta med sine Arduino ting
 
 ## Onsdag 01.02.2023 :dress:
 Agenda:
