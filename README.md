@@ -10,7 +10,8 @@ Oppsummering:
 - Fått samtlige underskrifter nødvendig for rettleiingsavtale, skannet det og levert inn. 
 - Fått utstyr fra veileder
   - Tester ut utstyret, oppdatering : fikk til utstyret! :) Merket at GPS-en var veldig svak og vi må stå ute uten noen "forstyrrelser" (i form av trær, bygninger, o.l.)
-  ![image](https://user-images.githubusercontent.com/112081691/216615987-39464de7-695a-4316-ab7b-24298b7ac7b7.png)
+
+![image](https://user-images.githubusercontent.com/112081691/216615987-39464de7-695a-4316-ab7b-24298b7ac7b7.png)
 Test 1 : Her fikk vi ingenting opp, da satt vi inne på laben
 
 ![image](https://user-images.githubusercontent.com/112081691/216616049-b4c4d1c8-0e19-469b-9fea-36d872ef2b68.png)
@@ -20,6 +21,7 @@ Test 2 : Her fikk vi kun opp dato og (UTC)tid, men ingen lokasjon.
 Test 3 : Her fikk vi opp både koordinater, dato og (UTC)tid. Måtte forflytte oss ut.
  
  ![image](https://user-images.githubusercontent.com/112081691/216615858-3d9acf6b-73ff-446b-8b3d-0c93424204d4.png)
+
 Resultater fra test 3 : Her fikk vi opp koordinater, samt dato og (UTC)tid.
 
 Fra møtet: 
