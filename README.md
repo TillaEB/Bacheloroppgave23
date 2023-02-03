@@ -3,6 +3,7 @@
 Agenda:
 - Rette opp i tilbakemeldingene fra forstudiet R 0.1
 - Levere forstudiet
+- Levere rettleiingsavtale
 
 Oppsummering:
 
