@@ -1,4 +1,11 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Fredag 03.02.2023 
+Fra møtet: 
+- beskytte lydkilden - forbedre signalet fordi det er svak ut fra hydrofonen  
+- batteri vil være begrensningen 
+- bør vise at minne ikke vil ha begrensning  
+- NMEA 
+
 ## Onsdag 01.02.2023 :dress:
 Agenda:
 - Bli ferdig med forstudie ✅
