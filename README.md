@@ -3,11 +3,12 @@
 Agenda:
 - Rette opp i tilbakemeldingene fra forstudiet R 0.1 ✅
 - Levere forstudiet ✅
-- Levere rettleiingsavtale
+- Levere rettleiingsavtale ✅
 
 Oppsummering:
 - Fått rettet opp og levert forstudiet
 - Fått samtlige underskrifter nødvendig for rettleiingsavtale, skannet det og levert inn. 
+- Tester ut utstyret
 
 Fra møtet: 
 - beskytte lydkilden - forbedre signalet fordi det er svak ut fra hydrofonen  
