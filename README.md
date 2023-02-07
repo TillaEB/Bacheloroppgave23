@@ -1,4 +1,15 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 07.02.2023
+Agenda:
+
+
+Oppsummering:
+
+
+Til neste gang:
+
+
+
 ## Fredag 03.02.2023 :envelope_with_arrow:
 Agenda:
 - Rette opp i tilbakemeldingene fra forstudiet R 0.1 ✅
