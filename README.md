@@ -1,13 +1,24 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Tirsdag 07.02.2023
-Agenda:
+## Tirsdag 07.02.2023 :dizzy_face:
+Eira husket endelig å ta med sitt Arduino utstyr! :) 
 
+Agenda:
+- Prøve å koble opp hydrofonen til Arduino ✅
 
 Oppsummering:
+- Fikk til å koble opp hydrofonen til Arduino
+  - Får per nå kun opp (analoge tall)verdier, og må neste gang se mer på converteren
+- Fornøyd med dagens gjennomføring, tok flere forsøk med ulike teknikker 
+
+![image](https://user-images.githubusercontent.com/112081691/217261331-9c4e5c0f-ba7b-4e3a-8ad5-7b0d5c90c084.png)
+
+Her tester vi hydrofonen med ossioloscopet for å bekrefte  at tallene (bilde under) stemmer overens med lydbølgene
+
+![image](https://user-images.githubusercontent.com/112081691/217261510-d0dcdef2-5ce2-41a9-8b36-6c5f71aa6024.png)
 
 
 Til neste gang:
-
+- Bli bedre kjent med converteren
 
 
 ## Fredag 03.02.2023 :envelope_with_arrow:
