@@ -1,4 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 09.02
+Agenda:
+- Teste ut å koble sammen alt og få lagret det på en lydfil
+  - Prøver å få de analoge signalene over til WAV format
+
+Oppsummering:
+
+Til neste gang:
+
+
 ## Tirsdag 07.02.2023 :dizzy_face:
 Eira husket endelig å ta med sitt Arduino utstyr! :) 
 
