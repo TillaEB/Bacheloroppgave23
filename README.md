@@ -1,7 +1,7 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Torsdag 09.02
 Agenda:
-- Teste ut å koble sammen alt og få lagret det på en lydfil
+- Teste det å koble sammen alt og få lagret det på en lydfil
   - Prøver å få de analoge signalene over til WAV format
 
 Oppsummering:
@@ -15,9 +15,10 @@ Oppsummering:
  - Opptaket blir automatisk videresendt til SD-kort
  - Får lydfilen over på spektorgram når vi overfører til laptopen
  
-Alt fungerte slik det skulle den første gangen (over vann) , men da vi prøvde 
+Alt fungerte slik det skulle den første gangen (over vann) , men da vi skulle teste videre fikk vi ingen lyd på lydfilene. Vi bestemte oss for å bytte ut alle komponentene da vi ikke så (med intern veileder) noe umiddelbar feil og alt så egentlig ut til å fungere som det skulle. Da vi byttet ut alle komponentene fikk vi lydsignaler inn på .WAV filen, men ser at vi må forsterke signalene i mye større grad. Vi har dessuten feil (den er liknende) forsterker i forhold til linken vi har fulgt, og vil derfor neste gang prøve med den riktige forsterkeren.
 
 Til neste gang:
+- Prøve å få tak i 2n3904 (det er 2n3906 vi har nå)
 
 
 ## Tirsdag 07.02.2023 :dizzy_face:
