@@ -5,6 +5,9 @@ Agenda:
   - Prøver å få de analoge signalene over til WAV format
 
 Oppsummering:
+- Testet en kode for "Arduino-based-digital-voice-recorder"
+  - https://github.com/thisissihab/arduino-based-digital-voice-recorder 
+  - Modifisert litt på oppkoblingsbrett + kode, da vi ikke har samme type 
 
 Til neste gang:
 
