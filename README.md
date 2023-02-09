@@ -8,6 +8,14 @@ Oppsummering:
 - Testet en kode for "Arduino-based-digital-voice-recorder"
   - https://github.com/thisissihab/arduino-based-digital-voice-recorder 
   - Modifisert litt på oppkoblingsbrett + kode, da vi ikke har samme type 
+ 
+ Hva vi har fått til i dag:
+ - Koblet opp arduino med hydrofon
+ - Koblet opp en knapp som tar opptak av hydrofonen
+ - Opptaket blir automatisk videresendt til SD-kort
+ - Får lydfilen over på spektorgram når vi overfører til laptopen
+ 
+Alt fungerte slik det skulle den første gangen (over vann) , men da vi prøvde 
 
 Til neste gang:
 
