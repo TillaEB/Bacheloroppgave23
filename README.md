@@ -1,8 +1,8 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Torsdag 09.02.2023 :ocean:
 Agenda:
-- Teste det å koble sammen alt og få lagret det på en lydfil
-  - Prøver å få de analoge signalene over til WAV format
+- Teste det å koble sammen alt og få lagret det på en lydfil ✅
+  - Prøver å få de analoge signalene over til WAV format ✅
 
 Oppsummering:
 - Testet en kode for "Arduino-based-digital-voice-recorder"
