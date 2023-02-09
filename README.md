@@ -11,7 +11,7 @@ Oppsummering:
  
  Hva vi har fått til i dag:
  - Koblet opp arduino med hydrofon
- - Koblet opp en knapp som tar opptak av hydrofonen
+ - Koblet opp en knapp som starter/stopper opptak av hydrofonen
  - Opptaket blir automatisk videresendt til SD-kort
  - Får lydfilen over på spektorgram når vi overfører til laptopen
  
