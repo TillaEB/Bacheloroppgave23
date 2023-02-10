@@ -1,4 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Fredag 10.02.2023
+Agenda:
+- Fortsette på oppkoblingen fra gårsdagen
+  - Teste litt nye muligheter/andre komponenter
+- Legge deler av forstudiet inn på bachelorrapporten i LaTex
+  
+Oppsummering:
+
+Til neste gang:
+
 ## Torsdag 09.02.2023 :ocean:
 Agenda:
 - Teste det å koble sammen alt og få lagret det på en lydfil ✅
