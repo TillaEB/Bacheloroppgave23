@@ -1,14 +1,21 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Fredag 10.02.2023
+## Fredag 10.02.2023 :taco:
 Agenda:
-- Fortsette på oppkoblingen fra gårsdagen
-  - Teste litt nye muligheter/andre komponenter
-- Legge deler av forstudiet inn på bachelorrapporten i LaTex
+- Fortsette på oppkoblingen fra gårsdagen ✅
+  - Teste litt nye muligheter/andre komponenter ✅
+- Legge deler av forstudiet inn på bachelorrapporten i LaTex ✅
   
 Oppsummering:
+- Fått testet videre fra gårsdagen, tror vi har kommet fram til riktig utstyr nå
+  - Opplever likevel mye støy når vi tar lengre opptak, ikke funnet ut av hvorfor enda
+- Prøvd oss litt på LaTex, ikke kommet fram til om vi skal bruke det eller ikke. Denne vurderingen tar vi over helgen.
 
+![image](https://user-images.githubusercontent.com/112081691/218105981-ba56cb59-dabb-4843-9f59-bb14da834b40.png)
+.WAV fil av dagens beste opptak :)
 
 Til neste gang:
+- LaTex/ikke LaTex ? ? ?
+- Måle/regne ut hvor stor forsterkning vi har per nå
 
 ## Torsdag 09.02.2023 :ocean:
 Agenda:
