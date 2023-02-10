@@ -7,6 +7,7 @@ Agenda:
   
 Oppsummering:
 
+
 Til neste gang:
 
 ## Torsdag 09.02.2023 :ocean:
@@ -24,6 +25,9 @@ Oppsummering:
  - Koblet opp en knapp som starter/stopper opptak av hydrofonen
  - Opptaket blir automatisk videresendt til SD-kort
  - Får lydfilen over på spektorgram når vi overfører til laptopen
+ 
+![image](https://user-images.githubusercontent.com/112081691/218046269-14ce11e6-1a93-49a0-a6b8-589533e9ecfb.png)
+Spektogram av gårsdagens beste gjennomføring.
  
 Alt fungerte slik det skulle den første gangen (over vann) , men da vi skulle teste videre fikk vi ingen lyd på lydfilene. Vi bestemte oss for å bytte ut alle komponentene da vi ikke så (med intern veileder) noe umiddelbar feil og alt så egentlig ut til å fungere som det skulle. Da vi byttet ut alle komponentene fikk vi lydsignaler inn på .WAV filen, men ser at vi må forsterke signalene i mye større grad. Vi lurer også på om vi kanskje har en feil på noen av motstandene, da "oppskriften" vi fulgte skrev en ting men henviste til noe annet.
 
