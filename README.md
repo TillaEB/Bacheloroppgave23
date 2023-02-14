@@ -6,8 +6,6 @@ Agenda:
 
 Oppsummering:
 - Måler forsterkningen i kretsen vår 
-  - Med 220 uF 
-      - inn : 2.20 V, ut 0.55 V med multimeter, mens på oscilloskopet er spenningen betydelig mye større på utgangssignalet vårt
 - Av en eller annen grunn vil ikke lydopptakene lagre seg på SD-kortet nå, oppdatering: fikset problemet nå, tror det hadde noe med navngiving av filen
 - Testet hydrofonen under vann med og uten støy (lånte noe som "tilsvarer" båtmotorlyd + slapp isbiter i vannet), dette fungerte bra, og vi hadde ut i fra lydfilen kontroll på hva som skjedde og når det skjedde
 - Vært på "loddekurs" hos Endre nå, føler oss litt mer trygg på å kunne senere lodde og bygge kretskort
