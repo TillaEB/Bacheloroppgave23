@@ -10,7 +10,7 @@ Oppsummering:
       - inn : 2.20 V, ut 0.55 V med multimeter, mens på oscilloskopet er spenningen betydelig mye større på utgangssignalet vårt
 - Av en eller annen grunn vil ikke lydopptakene lagre seg på SD-kortet nå, oppdatering: fikset problemet nå, tror det hadde noe med navngiving av filen
 - Vært på "loddekurs" hos Endre nå, føler oss litt mer trygg på å kunne senere lodde og bygge kretskort
-
+  - Fått tips om å bruke "kiCad" for planlegging av kretskort
 Til neste gang:
 - Eira må snakke med roomie ang LaTex
 - Teste GPS-modulen sammen med lydopptak - kombinere kode og krets på Arduino
