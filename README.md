@@ -1,4 +1,15 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 14.02.2023 :cupid:
+Agenda:
+- Måle/regne ut forsterkningen i kretsen vår
+- Teste ustyret med hydrofonen i vann
+
+Oppsummering:
+
+
+Til neste gang:
+- Eira må snakke med roomie ang LaTex
+
 ## Fredag 10.02.2023 :taco:
 Agenda:
 - Fortsette på oppkoblingen fra gårsdagen ✅
