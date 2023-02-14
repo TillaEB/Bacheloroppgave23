@@ -7,7 +7,8 @@ Agenda:
 Oppsummering:
 - Måler forsterkningen i kretsen vår 
   - Med 220 uF 
-      - inn : 2.20 V, ut 0.55 V
+      - inn : 2.20 V, ut 0.55 V med multimeter, mens på oscilloskopet er spenningen betydelig mye større på utgangssignalet vårt
+- Av en eller annen grunn vil ikke lydopptakene lagre seg på SD-kortet nå
 
 Til neste gang:
 - Eira må snakke med roomie ang LaTex
