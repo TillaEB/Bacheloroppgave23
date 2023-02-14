@@ -11,6 +11,8 @@ Oppsummering:
 - Av en eller annen grunn vil ikke lydopptakene lagre seg på SD-kortet nå, oppdatering: fikset problemet nå, tror det hadde noe med navngiving av filen
 - Vært på "loddekurs" hos Endre nå, føler oss litt mer trygg på å kunne senere lodde og bygge kretskort
   - Fått tips om å bruke "kiCad" for planlegging av kretskort
+
+
 Til neste gang:
 - Eira må snakke med roomie ang LaTex
 - Teste GPS-modulen sammen med lydopptak - kombinere kode og krets på Arduino
