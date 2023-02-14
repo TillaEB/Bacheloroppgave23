@@ -8,7 +8,7 @@ Oppsummering:
 - Måler forsterkningen i kretsen vår 
 - Av en eller annen grunn vil ikke lydopptakene lagre seg på SD-kortet nå, oppdatering: fikset problemet nå, tror det hadde noe med navngiving av filen
 - Testet hydrofonen under vann med og uten støy (lånte noe som "tilsvarer" båtmotorlyd + slapp isbiter i vannet), dette fungerte bra, og vi hadde ut i fra lydfilen kontroll på hva som skjedde og når det skjedde
-- Vært på "loddekurs" hos Endre nå, føler oss litt mer trygg på å kunne senere lodde og bygge kretskort
+- Vært på "loddekurs" hos Endre nå, føler oss litt mer trygg på å kunne lodde senere og bygge kretskort
   - Fått tips om å bruke "kiCad" for planlegging av kretskort
 - Kombinerer kretsene fra GPS-modulen sammen med opptakeren
   - GPS-modul: https://microcontrollerslab.com/gps-data-logger-arduino-micro-sd-card/?fbclid=IwAR20p_5p2YpBzsIYsGp3kvNG3Q30LWIA1SW_A1rjjbT4sZkNKwHLCIrWGKA
