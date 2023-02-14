@@ -9,20 +9,24 @@ Oppsummering:
   - Med 220 uF 
       - inn : 2.20 V, ut 0.55 V med multimeter, mens på oscilloskopet er spenningen betydelig mye større på utgangssignalet vårt
 - Av en eller annen grunn vil ikke lydopptakene lagre seg på SD-kortet nå, oppdatering: fikset problemet nå, tror det hadde noe med navngiving av filen
+- Testet hydrofonen under vann med og uten støy (lånte noe som "tilsvarer" båtmotorlyd + slapp isbiter i vannet), dette fungerte bra, og vi hadde ut i fra lydfilen kontroll på hva som skjedde og når det skjedde
 - Vært på "loddekurs" hos Endre nå, føler oss litt mer trygg på å kunne senere lodde og bygge kretskort
   - Fått tips om å bruke "kiCad" for planlegging av kretskort
-
+- Kombinerer kretsene fra GPS-modulen sammen med opptakeren
+  - GPS-modul: https://microcontrollerslab.com/gps-data-logger-arduino-micro-sd-card/?fbclid=IwAR20p_5p2YpBzsIYsGp3kvNG3Q30LWIA1SW_A1rjjbT4sZkNKwHLCIrWGKA
+  - Opptaker: https://www.youtube.com/watch?v=BOriG-wluJA&t=4s&ab_channel=MicrocontrollersExplained
 
 Til neste gang:
 - Eira må snakke med roomie ang LaTex
-- Teste GPS-modulen sammen med lydopptak - kombinere kode og krets på Arduino
+- Teste GPS-modulen sammen med lydopptak - kombinere kode på Arduino
   - Når vi får til dette vil neste mål være å lage en plan for å bygge kretskortet
 
 ## Fredag 10.02.2023 :taco:
 Agenda:
 - Fortsette på oppkoblingen fra gårsdagen ✅
   - Teste litt nye muligheter/andre komponenter ✅
-- Legge deler av forstudiet inn på bachelorrapporten i LaTex ✅
+- Legge deler av forstudiet inn på bachelorrapporten i LaTex 
+
   
 Oppsummering:
 - Fått testet videre fra gårsdagen, tror vi har kommet fram til riktig utstyr nå
