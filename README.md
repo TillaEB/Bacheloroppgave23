@@ -2,6 +2,7 @@
 ## Onsdag 15.02.2023
 Agenda:
 - Kombinere kode fra GPS-koden og opptaker-koden
+- Lage illustrasjon av arduinobrettet vårt
 
 Oppsummering:
 
