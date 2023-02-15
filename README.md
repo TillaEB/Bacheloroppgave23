@@ -1,18 +1,21 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Onsdag 15.02.2023
 Agenda:
-- Kombinere kode fra GPS-koden og opptaker-koden
-- Lage illustrasjon av arduinobrettet vårt
-- Teste om koden fungerer med utstyret
+- Kombinere kode fra GPS-koden og opptaker-koden ✅
+- Lage illustrasjon av arduinobrettet vårt ✅
+- Teste om koden fungerer med utstyret ✅
 - Få GPS-koordinatene på NMEA-struktur ; https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
 
 Oppsummering:
-- Har kombinert kodene, lastet opp her på Github.
+- Har kombinert kodene, lastet opp her på Github (den versjonen fungerer ikke, men vi holder på med en ny en).
 - Testing av GPS- og opptak-koden hver for seg (med utstyr), støtt på litt problemer ila dagen men har nå fikset dette
+  - Testet GPS ute (igjen)
 - Besluttet å utsette å få GPS-koordinatene på NMEA-struktur da dette ikke er førsteprioritet - først og fremst må vi få kodene til å fungere sammen, formatet kan vi bare endre senere
+- Opplever litt feil med komponenter
   
 Til neste gang:
 - Finne en lettere måte å skrive NMEA på
+- Forsette på kombinering av kode
 
 
 ## Tirsdag 14.02.2023 :cupid:
