@@ -4,12 +4,15 @@ Agenda:
 - Kombinere kode fra GPS-koden og opptaker-koden
 - Lage illustrasjon av arduinobrettet vårt
 - Teste om koden fungerer med utstyret
+- Få GPS-koordinatene på NMEA-struktur ; https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
 
 Oppsummering:
 - Har kombinert kodene, lastet opp her på Github.
-  - Få GPS-koordinatene i NMEA-struktur ; https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
-
+- Testing av GPS- og opptak-koden hver for seg (med utstyr), støtt på litt problemer ila dagen men har nå fikset dette
+- Besluttet å utsette å få GPS-koordinatene på NMEA-struktur da dette ikke er førsteprioritet - først og fremst må vi få kodene til å fungere sammen, formatet kan vi bare endre senere
+  
 Til neste gang:
+- Finne en lettere måte å skrive NMEA på
 
 
 ## Tirsdag 14.02.2023 :cupid:
