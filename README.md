@@ -1,10 +1,19 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Onsdag 15.02.2023
+Agenda:
+- Kombinere kode fra GPS-koden og opptaker-koden
+
+Oppsummering:
+
+Til neste gang:
+
+
 ## Tirsdag 14.02.2023 :cupid:
 Valentines 💘 🧁 spiste cookies i dag
 
 Agenda:
-- Måle/regne ut forsterkningen i kretsen vår
-- Teste ustyret med hydrofonen i vann
+- Måle/regne ut forsterkningen i kretsen vår ✅
+- Teste ustyret med hydrofonen i vann ✅
 
 Oppsummering:
 - Måler forsterkningen i kretsen vår 
