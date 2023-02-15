@@ -3,8 +3,10 @@
 Agenda:
 - Kombinere kode fra GPS-koden og opptaker-koden
 - Lage illustrasjon av arduinobrettet vårt
+- Teste om koden fungerer med utstyret
 
 Oppsummering:
+- Har kombinert kodene, lastet opp her på Github.
 
 Til neste gang:
 
