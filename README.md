@@ -7,7 +7,7 @@ Agenda:
 
 Oppsummering:
 - Har kombinert kodene, lastet opp her på Github.
-  - Få GPS-koordinatene på NMEA form; https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
+  - Få GPS-koordinatene i NMEA-struktur ; https://www.gpsworld.com/what-exactly-is-gps-nmea-data/
 
 Til neste gang:
 
