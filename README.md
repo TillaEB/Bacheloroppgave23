@@ -1,8 +1,9 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Torsdag 16.02.2023 :skier:
 Vinterferie :snowflake:
+
 Agenda:
-- Fortsette på kombinering av kode
+- Fortsette på kombinering av kode ✅
 
 Oppsummering:
 - Sliter med å få koden til å fungere sammen
