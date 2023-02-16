@@ -4,11 +4,13 @@ Agenda:
 - Fortsette på kombinering av kode
 
 Oppsummering:
+- Sliter med å få koden til å fungere sammen
+  - Bibliotekene fra de andre kodene intefererer med hverandre, og vi holder på med å løse dette.
 
 Til neste gang:
 
 
-## Onsdag 15.02.2023
+## Onsdag 15.02.2023 🕔
 Agenda:
 - Kombinere kode fra GPS-koden og opptaker-koden ✅
 - Lage illustrasjon av arduinobrettet vårt ✅
