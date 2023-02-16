@@ -1,14 +1,16 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Torsdag 16.02.2023
+## Torsdag 16.02.2023 :skier:
+Vinterferie :snowflake:
 Agenda:
 - Fortsette på kombinering av kode
 
 Oppsummering:
 - Sliter med å få koden til å fungere sammen
   - Bibliotekene fra de andre kodene intefererer med hverandre, og vi holder på med å løse dette.
+  - Resultat : tror bibliotekene kun inteferer i serial monitor, og ikke på SD-kortet, så vi fortsetter med å bruke disse bibliotekene som vi har brukt tidligere
 
 Til neste gang:
-
+- Fortsettelse av kombinering av kode
 
 ## Onsdag 15.02.2023 🕔
 Agenda:
