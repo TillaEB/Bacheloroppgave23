@@ -1,4 +1,13 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 16.02.2023
+Agenda:
+- Fortsette på kombinering av kode
+
+Oppsummering:
+
+Til neste gang:
+
+
 ## Onsdag 15.02.2023
 Agenda:
 - Kombinere kode fra GPS-koden og opptaker-koden ✅
