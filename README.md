@@ -11,6 +11,7 @@ Oppsummering:
   - Radio til båten?
  - WeMOS reads GPS, notices a change in location (mind: set a minimum change in location for it to be "movement" which is greater than the normal variance in readings), sends signal to audio recorder to start recording.
   - https://forum.arduino.cc/t/audio-recording-with-wemos-d1/650801/9   
+- https://www.generationrobots.com/media/3G-GPRS-GPS-Arduino-Shield-With-Audio-Video-Kit.pdf
 
 Til neste gang:
 - Starte å skrive i LaTex
