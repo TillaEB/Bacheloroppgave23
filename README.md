@@ -1,4 +1,18 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 21.02.2023 
+Forsetter på kombinering av kode, kan imidlertid ikke teste med SD-kort fordi Tilla ikke er her :( 
+
+Agenda:
+- Fortsette på kombinering av kode
+
+Oppsummering:
+- Vurdere om vi skal ha med GSM også?
+  - Sender radiobølger i UHF (ultra high frequency) båndet
+  - Radio til båten?
+
+Til neste gang:
+- Starte å skrive i LaTex
+
 ## Torsdag 16.02.2023 :skier:
 Vinterferie :snowflake:
 
