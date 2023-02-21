@@ -9,6 +9,8 @@ Oppsummering:
 - Vurdere om vi skal ha med GSM også?
   - Sender radiobølger i UHF (ultra high frequency) båndet
   - Radio til båten?
+ - WeMOS reads GPS, notices a change in location (mind: set a minimum change in location for it to be "movement" which is greater than the normal variance in readings), sends signal to audio recorder to start recording.
+  - https://forum.arduino.cc/t/audio-recording-with-wemos-d1/650801/9   
 
 Til neste gang:
 - Starte å skrive i LaTex
