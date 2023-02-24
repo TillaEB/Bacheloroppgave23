@@ -17,6 +17,7 @@ Oppsummering:
 - To forskjellige arduinoer for å kombinere kode
   - Vi benyttet oss av to forskjellige arduinoen, samt to skrivebord på min laptop og fikk til at to programmer kjørte hver for seg. Nå gjenstår det å se om all informasjon lagres på SD-kortet
   - Sist gang vi prøvde det ville ikke to forskjellige COM-porter stå åpne samtidig. Det fikk vi til nå :)
+  - Innser at vi kanskje må ha 2 SD-kort moduler? Mulig at vi da bare kan bruke en arduino og få til dette. 
 
 Til neste gang:
       
