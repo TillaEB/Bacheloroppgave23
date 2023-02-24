@@ -1,11 +1,11 @@
-#include "SD.h"
+#include <SD.h>
 #include <SPI.h>
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 
 File myFile;
-int RXPin = 7;
-int TXPin = 6;
+int RXPin = 2;
+int TXPin = 3;
 
 TinyGPSPlus gps;
 SoftwareSerial SerialGPS(RXPin, TXPin);
@@ -26,14 +26,14 @@ void setup() {
     while (1);
   }
   Serial.println("initialization done.");
-  Serial.println("Creating GPS_data.txt...");
-  myFile = SD.open("GPS_data.txt", FILE_WRITE);
+  Serial.println("Creating GPSdata.txt...");
+  myFile = SD.open("GPSdata.txt", FILE_WRITE);
   if (myFile) {
     myFile.println( "Latitude, Longitude, Altitude, Date and Time \r\n");
     myFile.close();
 
   } else {
-    Serial.println("error opening GPS_data.txt");
+    Serial.println("error opening GPSdata.txt");
   }
  SerialGPS.begin(9600);
 }
@@ -96,15 +96,15 @@ void obtain_data()
   Data = Latitude + "," + Longitude + "," + Altitude + "," + Date + "," + Time;
   Serial.print("Save data: ");
   Serial.println(Data);
-  myFile = SD.open("GPS_data.txt", FILE_WRITE);
+  myFile = SD.open("GPSdata.txt", FILE_WRITE);
 
   if (myFile) {
-    Serial.print("GPS logging to GPS_data.txt...");
+    Serial.print("GPS logging to GPSdata.txt...");
     myFile.println(Data);
     myFile.close();
     Serial.println("done.");
   } else {
-    Serial.println("error opening GPS_data.txt");
+    Serial.println("error opening GPSdata.txt");
   } 
  Serial.println();
  delay(10000);

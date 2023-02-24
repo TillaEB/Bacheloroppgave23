@@ -97,13 +97,13 @@ void loop() {
       started = false; 
       stopped = true;
       digitalWrite(red, HIGH);
-      audio.startRecording("feb161.wav",16000,A0);
+      audio.startRecording("feb241.wav",16000,A0);
       
       }
     else if(ss1%2 != 0 && stopped){
       Serial.println("Recording Stopped"); 
       digitalWrite(red, 0);
-      audio.stopRecording("feb161.wav");
+      audio.stopRecording("feb241.wav");
       started = true; 
       stopped = false;
       
