@@ -10,6 +10,10 @@ Oppsummering:
   - Testet ulike hydrofoner og sett på dataen vi fikk
   - Gått gjennom hvor vi ligger ann med ekstern veileder
   - Må bli flinkere på Metadata
+- Navngiving av .WAV-filer
+  - Funnet ut at vår opptaker nekter å lagre filer hvis filnavnet inneholder mer enn fire tall... Hvorfor vet vi ikke
+  - Hadde vært ideelt å bruke DTG-format da dette er en oversiktelig måte å beskrive ulike tester på.
+  - Bruker derfor "FEB24XX" hvor XX = nummer av forsøket
 
 Til neste gang:
       
