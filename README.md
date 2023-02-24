@@ -28,7 +28,9 @@ Oppsummering:
 
 Til neste gang:
 - Eira må snakke med roomie om LaTex (!!!!!)
-      
+- Skrive ned begrensninger med arduino i rapporten
+- Begynne å skrive om kretsen, snakke om kretskort - legge opp en modell for hvordan den skal se ut
+- Begynne å skrive, generelt      
 
 ## Tirsdag 21.02.2023 :bust_in_silhouette:
 Forsetter på kombinering av kode, kan imidlertid ikke teste med SD-kort fordi Tilla ikke er her :( 
