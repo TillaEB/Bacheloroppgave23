@@ -1,8 +1,8 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Fredag 24.02.2023 :fishing_pole_and_fish:
 Agenda: 
-- Møte med NERSC 
-- Bruke to forskjellige arduinoer for å kombinere kodene 
+- Møte med NERSC ✅
+- Bruke to forskjellige arduinoer for å kombinere kodene ✅
   - Har prøvd dette tidligere en gang, men vil prøve på nytt og utforske litt
             
 Oppsummering:
@@ -10,6 +10,11 @@ Oppsummering:
   - Testet ulike hydrofoner og sett på dataen vi fikk
   - Gått gjennom hvor vi ligger ann med ekstern veileder
   - Må bli flinkere på Metadata
+
+![image](https://user-images.githubusercontent.com/112081691/221190228-dfa0272f-75e5-4d15-9bad-54e2f26990fd.png)
+![image](https://user-images.githubusercontent.com/112081691/221190248-dc858640-af10-4a0f-8f1d-669cbcb3c173.png)
+
+
 - Navngiving av .WAV-filer
   - Funnet ut at vår opptaker nekter å lagre filer hvis filnavnet inneholder mer enn fire tall... Hvorfor vet vi ikke
   - Hadde vært ideelt å bruke DTG-format da dette er en oversiktelig måte å beskrive ulike tester på.
@@ -17,9 +22,12 @@ Oppsummering:
 - To forskjellige arduinoer for å kombinere kode
   - Vi benyttet oss av to forskjellige arduinoen, samt to skrivebord på min laptop og fikk til at to programmer kjørte hver for seg. Nå gjenstår det å se om all informasjon lagres på SD-kortet
   - Sist gang vi prøvde det ville ikke to forskjellige COM-porter stå åpne samtidig. Det fikk vi til nå :)
-  - Innser at vi kanskje må ha 2 SD-kort moduler? Mulig at vi da bare kan bruke en arduino og få til dette. 
+  - Innser at vi kanskje må ha 2 SD-kort moduler? Mulig at vi da bare kan bruke en arduino og få til dette.
+- To SD kort-moduler
+  - Tror det er mest fornuftig (i samsvar med ekstern veileder) å ha to SD kort-moduler, slik at all informasjon kan lagres. Ekstern veileder bestiller dette ASAP. 
 
 Til neste gang:
+- Eira må snakke med roomie om LaTex (!!!!!)
       
 
 ## Tirsdag 21.02.2023 :bust_in_silhouette:
