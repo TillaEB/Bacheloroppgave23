@@ -14,6 +14,9 @@ Oppsummering:
   - Funnet ut at vår opptaker nekter å lagre filer hvis filnavnet inneholder mer enn fire tall... Hvorfor vet vi ikke
   - Hadde vært ideelt å bruke DTG-format da dette er en oversiktelig måte å beskrive ulike tester på.
   - Bruker derfor "FEB24XX" hvor XX = nummer av forsøket
+- To forskjellige arduinoer for å kombinere kode
+  - Vi benyttet oss av to forskjellige arduinoen, samt to skrivebord på min laptop og fikk til at to programmer kjørte hver for seg. Nå gjenstår det å se om all informasjon lagres på SD-kortet
+  - Sist gang vi prøvde det ville ikke to forskjellige COM-porter stå åpne samtidig. Det fikk vi til nå :)
 
 Til neste gang:
       
