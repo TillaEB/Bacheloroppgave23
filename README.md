@@ -24,7 +24,7 @@ Oppsummering:
   - Sist gang vi prøvde det ville ikke to forskjellige COM-porter stå åpne samtidig. Det fikk vi til nå :)
   - Innser at vi kanskje må ha 2 SD-kort moduler? Mulig at vi da bare kan bruke en arduino og få til dette.
 - To SD kort-moduler
-  - Tror det er mest fornuftig (i samsvar med ekstern veileder) å ha to SD kort-moduler, slik at all informasjon kan lagres. Ekstern veileder bestiller dette ASAP. 
+  - Tror det er mest fornuftig (i samsvar med ekstern veileder) å ha to SD kort-moduler, slik at all informasjon kan lagres. Ekstern veileder bestiller dette ASAP. Dette har blitt skrevet opp i budsjettet
 
 Til neste gang:
 - Eira må snakke med roomie om LaTex (!!!!!)
