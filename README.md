@@ -1,5 +1,20 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Tirsdag 21.02.2023 
+## Fredag 24.02.2023 :fishing_pole_and_fish:
+Agenda: 
+- Møte med NERSC 
+- Bruke to forskjellige arduinoer for å kombinere kodene 
+  - Har prøvd dette tidligere en gang, men vil prøve på nytt og utforske litt
+            
+Oppsummering:
+- Vært på møte med NERSC
+  - Testet ulike hydrofoner og sett på dataen vi fikk
+  - Gått gjennom hvor vi ligger ann med ekstern veileder
+  - Må bli flinkere på Metadata
+
+Til neste gang:
+      
+
+## Tirsdag 21.02.2023 :bust_in_silhouette:
 Forsetter på kombinering av kode, kan imidlertid ikke teste med SD-kort fordi Tilla ikke er her :( 
 
 Agenda:
