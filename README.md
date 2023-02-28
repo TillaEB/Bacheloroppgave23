@@ -1,4 +1,15 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 28.02.2023
+Agenda:
+- Skrive over resultater vi har så langt på LaTex
+  - Skrive over forstudie
+- Starte på en kode for 2 SD-kort moduler
+  - Kan ikke faktisk teste enda da vi ikke har fått utstyret enda
+
+Oppsummering:
+
+Til neste gang:
+
 ## Fredag 24.02.2023 :fishing_pole_and_fish:
 Agenda: 
 - Møte med NERSC ✅
