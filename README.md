@@ -10,7 +10,7 @@ Oppsummering:
 
 Til neste gang: 
 
-## Tirsdag 28.02.2023 :write:
+## Tirsdag 28.02.2023 :writing_hand:
 Agenda:
 - Skrive over resultater vi har så langt på LaTex
   - Skrive over forstudie
