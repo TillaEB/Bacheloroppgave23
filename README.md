@@ -1,15 +1,17 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Fredag 03.03.2023
 Agenda:
-- Hente SD-kort modul hos NERSC
+- Hente SD-kort modul hos NERSC ✅
 - Prøve å lage ny kode + teste den
-- Sende mail til veileder og emneansvarlig om at vi ikke har mulighet til midtveispresentasjon - er det mulighet for å ha det dagen før?
+- Sende mail til veileder og emneansvarlig om at vi ikke har mulighet til midtveispresentasjon - er det mulighet for å ha det dagen før? ✅
 
 Oppsummering:
 - Fikk hentet SD-kort modul hos NERSC
 - Sett litt på måter å koble arduinoen til strøm; https://support.arduino.cc/hc/en-us/articles/360018922259-What-power-supply-can-I-use-with-my-Arduino-board-
   - Power bank?
 - Forsket litt på klokken vi fikk av ekstern veileder i dag; https://www.youtube.com/watch?v=kNZlsvLEtEw&ab_channel=miliohm
+- Så vidt startet på midtveispresentasjonen 
+  - Har også sendt mail til emneansvarlig om at datoen ikke passer oss, venter på svar
 
 Til neste gang: 
 
