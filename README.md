@@ -1,5 +1,5 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Fredag 03.03.2023
+## Fredag 03.03.2023 😔
 Agenda:
 - Hente SD-kort modul hos NERSC ✅
 - Prøve å lage ny kode + teste den
@@ -12,8 +12,14 @@ Oppsummering:
 - Forsket litt på klokken vi fikk av ekstern veileder i dag; https://www.youtube.com/watch?v=kNZlsvLEtEw&ab_channel=miliohm
 - Så vidt startet på midtveispresentasjonen 
   - Har også sendt mail til emneansvarlig om at datoen ikke passer oss, venter på svar
+- Prøvd å legge til knapp og LED på GPSen
+  - Av ukjente grunner har ikke GPSen fungert i dag
+- Delt koden og set-up et i 2 deler
 
 Til neste gang: 
+- Lade hver vår powerbank
+- Finne ut hvorfor GPSen ikke fungerer
+- Fortsette med kode og testing
 
 ## Tirsdag 28.02.2023 :writing_hand:
 Agenda:
