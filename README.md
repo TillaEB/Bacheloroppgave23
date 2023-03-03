@@ -1,5 +1,16 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Tirsdag 28.02.2023
+## Fredag 03.03.2023
+Agenda:
+- Hente SD-kort modul hos NERSC
+- Prøve å lage ny kode + teste den
+- Sende mail til veileder og emneansvarlig om at vi ikke har mulighet til midtveispresentasjon - er det mulighet for å ha det dagen før?
+
+Oppsummering:
+- Fikk hentet SD-kort modul hos NERSC
+
+Til neste gang: 
+
+## Tirsdag 28.02.2023 :write:
 Agenda:
 - Skrive over resultater vi har så langt på LaTex
   - Skrive over forstudie
@@ -7,8 +18,10 @@ Agenda:
   - Kan ikke faktisk teste enda da vi ikke har fått utstyret enda
 
 Oppsummering:
+- Skrevet over alt vi har i LaTex
 
 Til neste gang:
+- Unødvendig å møte opp på skolen før vi har fått tak i den nye SD-kort modulen, så venter til det
 
 ## Fredag 24.02.2023 :fishing_pole_and_fish:
 Agenda: 
