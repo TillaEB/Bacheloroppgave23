@@ -9,6 +9,7 @@ Oppsummering:
 - Fikk hentet SD-kort modul hos NERSC
 - Sett litt på måter å koble arduinoen til strøm; https://support.arduino.cc/hc/en-us/articles/360018922259-What-power-supply-can-I-use-with-my-Arduino-board-
   - Power bank?
+- Forsket litt på klokken vi fikk av ekstern veileder i dag; https://www.youtube.com/watch?v=kNZlsvLEtEw&ab_channel=miliohm
 
 Til neste gang: 
 
