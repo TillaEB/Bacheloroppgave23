@@ -13,6 +13,7 @@ Oppsummering:
 - Hurra! GPSen fungerte som den skulle nå, ukjent hvorfor den ikke fungerte forrige gang. 
 - Yay! Vi fikk til at GPSen starte å logge til SD-kortet når vi trykker på knappen. 
 - Wohoo! Vi fikk LED-lyset til å fungere parallelt med knappen.
+- Koblet GPSen til en powerbank og det fungerte som det skulle. 
 
 Til neste gang:
 
