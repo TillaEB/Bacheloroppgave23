@@ -1,4 +1,16 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Onsdag 08.03.2023 :elf_woman:
+Kvinnedagen! Heia alle damer
+
+Agenda:
+- Teste utstyret med powerbank - fungerer det?
+- GPSen fungerte ikke forrige gang, skal koble opp hele greia på nytt og teste en gang til.
+- Prøve å finne ut hvordan vi kan starte GPSen ved å trykke på en knapp
+
+Oppsummering:
+
+Til neste gang:
+
 ## Fredag 03.03.2023 😔
 Agenda:
 - Hente SD-kort modul hos NERSC ✅
