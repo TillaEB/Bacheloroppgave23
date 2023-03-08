@@ -1,6 +1,6 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Onsdag 08.03.2023 :elf_woman:
-Kvinnedagen! Heia alle damer
+Kvinnedagen! Heia alle damer :heart:
 
 Agenda:
 - Teste utstyret med powerbank - fungerer det?
@@ -8,6 +8,7 @@ Agenda:
 - Prøve å finne ut hvordan vi kan starte GPSen ved å trykke på en knapp
 
 Oppsummering:
+- Lastet opp denne ukens versjon av kodene vi bruker 
 
 Til neste gang:
 
