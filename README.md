@@ -3,7 +3,7 @@
 Kvinnedagen! Heia alle damer :heart: #GIRLPOWER
 
 Agenda:
-- Teste utstyret med powerbank - fungerer det?
+- Teste utstyret med powerbank - fungerer det? ✅
 - GPSen fungerte ikke forrige gang, skal koble opp hele greia på nytt og teste en gang til. ✅
 - Prøve å finne ut hvordan vi kan starte GPSen ved å trykke på en knapp ✅
 - Få LED-lys til å fungere parallelt med knappen ✅
@@ -14,6 +14,8 @@ Oppsummering:
 - Yay! Vi fikk til at GPSen starte å logge til SD-kortet når vi trykker på knappen. 
 - Wohoo! Vi fikk LED-lyset til å fungere parallelt med knappen.
 - Koblet GPSen til en powerbank og det fungerte som det skulle. 
+- Koblet hydrofonen til en powerbank og det fungerte som det skulle
+- Koblet begge deler opp til powerbank og det fungerte som det skulle! #SLAY
 
 Til neste gang:
 
