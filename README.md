@@ -18,6 +18,7 @@ Oppsummering:
 - Koblet begge deler opp til powerbank og det fungerte som det skulle! #SLAY
 
 Til neste gang:
+- Teste utstyret ute (for å få ordentlig GPS signal) for å se om det funker heelt ordentlig (hvis det ikke snør)
 
 ## Fredag 03.03.2023 😔
 Agenda:
