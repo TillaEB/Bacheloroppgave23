@@ -4,7 +4,7 @@ Kvinnedagen! Heia alle damer :heart: #GIRLPOWER
 
 Agenda:
 - Teste utstyret med powerbank - fungerer det?
-- GPSen fungerte ikke forrige gang, skal koble opp hele greia på nytt og teste en gang til.
+- GPSen fungerte ikke forrige gang, skal koble opp hele greia på nytt og teste en gang til. ✅
 - Prøve å finne ut hvordan vi kan starte GPSen ved å trykke på en knapp
 
 Oppsummering:
