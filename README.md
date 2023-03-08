@@ -19,6 +19,9 @@ Oppsummering:
 
 Til neste gang:
 - Teste utstyret ute (for å få ordentlig GPS signal) for å se om det funker heelt ordentlig (hvis det ikke snør)
+- Fortsette med skriving i LaTex
+- Fortsette med illustreringer
+- Eira ta med powerbank
 
 ## Fredag 03.03.2023 😔
 Agenda:
