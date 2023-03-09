@@ -1,4 +1,16 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 09.03.2023 
+Agenda: 
+- Fortsette å skrive inn i LaTex
+- Teste alt utstyret sammen ute (for å få GPS-koordinater)
+- Forsette med illustrasjoner
+
+Oppsummering: 
+
+Til neste gang: 
+
+
+
 ## Onsdag 08.03.2023 :elf_woman:
 Kvinnedagen! Heia alle damer :heart: #GIRLPOWER
 
