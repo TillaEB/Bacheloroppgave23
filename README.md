@@ -6,6 +6,7 @@ Agenda:
 - Forsette med illustrasjoner
 
 Oppsummering: 
+- Skrevet kilder korrekt (tror vi) inn i LaTex nå (får ingen error :) )
 
 Til neste gang: 
 
