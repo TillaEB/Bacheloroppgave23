@@ -4,7 +4,7 @@ International Pi-day (3.14) :D
 
 Agenda: 
 - Lage midtveispresentasjon
-- Teste utstyret ute i vann med powerbank
+- Teste utstyret ute i vann med powerbank ✅
 
 Oppsummering: 
 - Testet utstyret i vann
