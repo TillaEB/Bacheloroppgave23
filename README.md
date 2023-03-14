@@ -5,7 +5,7 @@ International Pi-day (3.14) :D
 Agenda: 
 - Lage midtveispresentasjon
 - Teste utstyret ute i vann med powerbank ✅
-- Klargjøre for møtet i morgen
+- Klargjøre for møtet i morgen ✅
 
 Oppsummering: 
 - Testet utstyret i vann
@@ -17,6 +17,8 @@ Oppsummering:
 
 
 Til neste gang:
+- Møte på HVL
+- Fortsette på midtveispresentasjon
 
 ## Torsdag 09.03.2023 :airplane:
 Agenda: 
