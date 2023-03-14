@@ -12,6 +12,7 @@ Oppsummering:
   - Matet to svaner for å få litt lyder i vannet, og det fikk vi
 
 ![image](https://user-images.githubusercontent.com/112081691/224963978-1d261d77-6801-42a2-8090-bbe055f2590f.png)
+![image](https://user-images.githubusercontent.com/112081691/224964646-278bee7a-80b8-4182-911f-4cd846440213.png)
 
 
 Til neste gang:
