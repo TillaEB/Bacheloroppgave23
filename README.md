@@ -1,5 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Torsdag 09.03.2023 
+## Tirsdag 14.03.2023
+Agenda: 
+- Lage midtveispresentasjon
+- Teste utstyret ute i vann med powerbank
+
+Oppsummering: 
+
+Til neste gang:
+
+## Torsdag 09.03.2023 :plane:
 Agenda: 
 - Fortsette å skrive inn i LaTex ✅
 - Teste alt utstyret sammen ute (for å få GPS-koordinater) 
