@@ -5,10 +5,11 @@ International Pi-day (3.14) :D
 Agenda: 
 - Lage midtveispresentasjon
 - Teste utstyret ute i vann med powerbank ✅
+- Klargjøre for møtet i morgen
 
 Oppsummering: 
 - Testet utstyret i vann
-  - GPS ville ikke fungere - prøver å finne ut. Mistenker at det kan ta litt tid bare
+  - GPS ville ikke fungere - prøver å finne ut. Mistenker det dårlige været. Kommer ikke fram til noe annet per i dag
   - Matet to svaner for å få litt lyder i vannet, og det fikk vi
 
 ![image](https://user-images.githubusercontent.com/112081691/224963978-1d261d77-6801-42a2-8090-bbe055f2590f.png)
