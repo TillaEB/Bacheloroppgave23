@@ -11,6 +11,7 @@ Agenda:
 Oppsummering:
 - Avtalt nytt møte 22.03.2023 - midtveispresentasjon framvisning
 - Feilsøkt på GPS, fungerer fortsatt ikke
+- Laget kretsdiagram til forsterkningen ved opptakeren
 
 Til neste gang: 
 
