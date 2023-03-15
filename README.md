@@ -2,13 +2,14 @@
 ## Onsdag 15.03.2023
 Agenda:
 - Møte med veiledere ✅
-- Teste GPSen
+- Teste GPSen ✅
 - Begynne å se litt på kretskort
 - Kretsdiagram til midtveispresentasjon
 - Finne ut om forsterkning
 
 Oppsummering:
 - Avtalt nytt møte 22.03.2023 - midtveispresentasjon framvisning
+- Feilsøkt på GPS, fungerer fortsatt ikke
 
 Til neste gang: 
 
