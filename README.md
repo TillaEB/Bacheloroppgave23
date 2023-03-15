@@ -1,4 +1,17 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Onsdag 15.03.2023
+Agenda:
+- Møte med veiledere ✅
+- Teste GPSen
+- Begynne å se litt på kretskort
+- Kretsdiagram til midtveispresentasjon
+- Finne ut om forsterkning
+
+Oppsummering:
+- Avtalt nytt møte 22.03.2023 - midtveispresentasjon framvisning
+
+Til neste gang: 
+
 ## Tirsdag 14.03.2023 🥧
 International Pi-day (3.14) :D
 
