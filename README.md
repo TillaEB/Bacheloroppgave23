@@ -1,19 +1,23 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Onsdag 15.03.2023
+## Onsdag 15.03.2023 :flushed:
 Agenda:
 - Møte med veiledere ✅
 - Teste GPSen ✅
 - Begynne å se litt på kretskort
 - Kretsdiagram til midtveispresentasjon
-- Finne ut om forsterkning
+- Finne ut om forsterkning ✅
 - Forsette med midtveispresentasjon
 
 Oppsummering:
 - Avtalt nytt møte 22.03.2023 - midtveispresentasjon framvisning
 - Feilsøkt på GPS, fungerer fortsatt ikke
 - Laget kretsdiagram til forsterkningen ved opptakeren
+- Jobbet mer på forsterkningskretsen til opptakeren
 
 Til neste gang: 
+- Se på kretskort
+- Kretsdiagram til midtveispresentasjon
+- Fortsette med midtveispresentasjon
 
 ## Tirsdag 14.03.2023 🥧
 International Pi-day (3.14) :D
