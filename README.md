@@ -6,6 +6,7 @@ Agenda:
 - Begynne å se litt på kretskort
 - Kretsdiagram til midtveispresentasjon
 - Finne ut om forsterkning
+- Forsette med midtveispresentasjon
 
 Oppsummering:
 - Avtalt nytt møte 22.03.2023 - midtveispresentasjon framvisning
