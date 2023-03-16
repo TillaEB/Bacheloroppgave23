@@ -1,4 +1,15 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 16.03.2023
+Agenda:
+- Fortsette med midtveispresentasjon
+- Begynne å se litt på kretskort
+- Kretsdiagram til midtveispresentsjon
+
+Oppsummering:
+- Skrevet førsteutkast manus til midtveispresentasjon
+
+Til neste gang:
+
 ## Onsdag 15.03.2023 :flushed:
 Agenda:
 - Møte med veiledere ✅
