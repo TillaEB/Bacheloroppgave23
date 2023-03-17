@@ -14,6 +14,7 @@ Oppsummering:
 - Laget kretsdiagram til midtveispresentasjonen
 
 Til neste gang:
+- Rydde opp i kodene vi har skrevet til nå
 
 ## Torsdag 16.03.2023 :poop:
 Agenda:
