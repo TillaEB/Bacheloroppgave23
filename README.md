@@ -14,6 +14,7 @@ Oppsummering:
   - Oppdatering : fått verifisert av veileder at dette er greit
 - Laget kretsdiagram til midtveispresentasjonen
 - Begynt å se på kretskort
+  - Prøvd å lage digital versjon
 - Skrevet videre på manus til midtveispresentasjon
 - Prøvd å få til at en knapp styrer hele oppsettet
   - Usikker på om dette i det hele tatt er mulig ... :eyes:
