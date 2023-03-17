@@ -1,9 +1,10 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Fredag 17.03.2023
 Agenda:
-- Begynne å se på kretskort
+- Begynne å se på kretskort ✅
 - Bli ferdig med forsterkningskretsen ✅
 - Kretsdiagram til midtveispresentasjon ✅
+- Fortsette å skrive manus til midtveispresentasjon ✅
 - Bli ferdig med midtveispresentasjon
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
@@ -12,6 +13,10 @@ Oppsummering:
 - (Tror) vi har blitt ferdig med forsterkningskretsen, vil ha verifisering fra veileder 
   - Oppdatering : fått verifisert av veileder at dette er greit
 - Laget kretsdiagram til midtveispresentasjonen
+- Begynt å se på kretskort
+- Skrevet videre på manus til midtveispresentasjon
+- Prøvd å få til at en knapp styrer hele oppsettet
+  - Usikker på om dette i det hele tatt er mulig ... :eyes:
 
 Til neste gang:
 - Rydde opp i kodene vi har skrevet til nå
