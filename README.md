@@ -5,6 +5,8 @@ Agenda:
 - Bli ferdig med forsterkningskretsen ✅
 - Kretsdiagram til midtveispresentasjon ✅
 - Bli ferdig med midtveispresentasjon
+- Få begge systemene til å starte med kun en knapp
+- Skrive mer på sluttrapporten 
 
 Oppsummering:
 - (Tror) vi har blitt ferdig med forsterkningskretsen, vil ha verifisering fra veileder 
