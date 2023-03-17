@@ -9,6 +9,7 @@ Agenda:
 Oppsummering:
 - (Tror) vi har blitt ferdig med forsterkningskretsen, vil ha verifisering fra veileder 
   - Oppdatering : fått verifisert av veileder at dette er greit
+- Laget kretsdiagram til midtveispresentasjonen
 
 Til neste gang:
 
