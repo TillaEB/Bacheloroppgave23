@@ -2,11 +2,12 @@
 ## Fredag 17.03.2023
 Agenda:
 - Begynne å se på kretskort
-- Bli ferdig med forsterkningskretsen
+- Bli ferdig med forsterkningskretsen ✅
 - Kretsdiagram til midtveispresentasjon
 - Bli ferdig med midtveispresentasjon
 
 Oppsummering:
+- (Tror) vi har blitt ferdig med forsterkningskretsen, vil ha verifisering fra veileder 
 
 Til neste gang:
 
