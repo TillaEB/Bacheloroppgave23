@@ -3,11 +3,12 @@
 Agenda:
 - Begynne å se på kretskort
 - Bli ferdig med forsterkningskretsen ✅
-- Kretsdiagram til midtveispresentasjon
+- Kretsdiagram til midtveispresentasjon ✅
 - Bli ferdig med midtveispresentasjon
 
 Oppsummering:
 - (Tror) vi har blitt ferdig med forsterkningskretsen, vil ha verifisering fra veileder 
+  - Oppdatering : fått verifisert av veileder at dette er greit
 
 Til neste gang:
 
