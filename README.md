@@ -10,6 +10,7 @@ Agenda:
 Oppsummering:
 - Testet utstyret ved Solheimsvatnet
 - Blitt ferdig med power-pointen til midtveispresentasjonen
+- Sett litt videre på kretskort
 
 Til neste gang:
 
