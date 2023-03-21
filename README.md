@@ -1,17 +1,19 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Tirsdag 21.03.2023
+## Tirsdag 21.03.2023 :swan:
 Agenda:
-- Teste utstyret ved Solheimsvatnet
+- Teste utstyret ved Solheimsvatnet ✅
 - Øve på midtveispresentasjon (fremføring for veiledere i morgen 22.03.2023)
-- Bli ferdig med midtveispresentasjon
+- Bli ferdig med midtveispresentasjon ✅
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
 
 Oppsummering:
+- Testet utstyret ved Solheimsvatnet
+- Blitt ferdig med power-pointen til midtveispresentasjonen
 
 Til neste gang:
 
-## Fredag 17.03.2023
+## Fredag 17.03.2023 	:nauseated_face:
 Agenda:
 - Begynne å se på kretskort ✅
 - Bli ferdig med forsterkningskretsen ✅
