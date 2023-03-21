@@ -2,7 +2,7 @@
 ## Tirsdag 21.03.2023 :swan:
 Agenda:
 - Teste utstyret ved Solheimsvatnet ✅
-- Øve på midtveispresentasjon (fremføring for veiledere i morgen 22.03.2023)
+- Øve på midtveispresentasjon (fremføring for veiledere i morgen 22.03.2023) 
 - Bli ferdig med midtveispresentasjon ✅
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
@@ -11,8 +11,14 @@ Oppsummering:
 - Testet utstyret ved Solheimsvatnet
 - Blitt ferdig med power-pointen til midtveispresentasjonen
 - Sett litt videre på kretskort
+  - Må nok ha hjelp fra Endre
+  - Finner bl.a. ikke schematisk for knapp og SD-kort.
 
 Til neste gang:
+- Presentere midtveispresentasjon for veiledere
+- Jobbe med automatisk bytte av filnavn
+- Få begge systemene til å starte med kun en knapp
+- Skrive mer på sluttrapporten
 
 ## Fredag 17.03.2023 	:nauseated_face:
 Agenda:
