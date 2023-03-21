@@ -13,6 +13,7 @@ Oppsummering:
 - Sett litt videre på kretskort
   - Må nok ha hjelp fra Endre
   - Finner bl.a. ikke schematisk for knapp og SD-kort.
+- 4V til 6V med 220 uF
 
 Til neste gang:
 - Presentere midtveispresentasjon for veiledere
