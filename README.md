@@ -1,11 +1,12 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Onsdag 22.03.2023
+## Onsdag 22.03.2023 :mechanical_arm:
 Agenda:
 - Ha midtveispresentasjon for veiledere ✅
   - Rette opp i midtveispresentasjonen
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
-- Jobbe med automatisk bytte av filnavn
+- Jobbe med automatisk bytte av filnavn ✅
+- Få GPS-koordinatene på NMEA format
 
 Oppsummering:
 - Hatt midtveispresentasjon for veiledere
@@ -15,8 +16,13 @@ Oppsummering:
 - Jobbet videre på forsterkningskretsen
   - Gjør testing med ulike komponenter og samplingfrekvenser
 - Jobbet med automatisk bytte av filnavn
+  - Fungerer fram til man tar SD-kortet ut igjen, må se videre på det senere
 
 Til neste gang:
+- Rette opp alt i midtveispresentasjonen
+- Undersøke om vi kan få begge systemet til å starte med kun en knapp
+- Skrive mer på sluttrapporten
+- Få GPS-koordinatene på NMEA format
 
 ## Tirsdag 21.03.2023 :swan:
 Agenda:
