@@ -1,8 +1,19 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Onsdag 22.03.2023
+Agenda:
+- Ha midtveispresentasjon for veiledere
+- Få begge systemene til å starte med kun en knapp
+- Skrive mer på sluttrapporten 
+- Jobbe med automatisk bytte av filnavn
+
+Oppsummering:
+
+Til neste gang:
+
 ## Tirsdag 21.03.2023 :swan:
 Agenda:
 - Teste utstyret ved Solheimsvatnet ✅
-- Øve på midtveispresentasjon (fremføring for veiledere i morgen 22.03.2023) 
+- Øve på midtveispresentasjon (fremføring for veiledere i morgen 22.03.2023) ✅ 
 - Bli ferdig med midtveispresentasjon ✅
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
