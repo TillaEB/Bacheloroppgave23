@@ -9,6 +9,9 @@ Agenda:
 
 Oppsummering:
 - Hatt midtveispresentasjon for veiledere
+  - Fikk tilbakemelding fra veilederne på ting vi kan utbedre, skal få til det ila dagen
+- Fått hjelp til forsterkningskretsen av div forelesere på bygget, samt veiledere
+  - Vurderer om vi skal gå litt vekk - kanskje PCB fikser alle problemene? Må begynne å bevege oss litt vekk fra denne og se litt fremover
 
 Til neste gang:
 
