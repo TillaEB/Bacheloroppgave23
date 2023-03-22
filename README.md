@@ -1,5 +1,5 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Onsdag 22.03.2023 :mechanical_arm:
+## Onsdag 22.03.2023 🦾
 Agenda:
 - Ha midtveispresentasjon for veiledere ✅
   - Rette opp i midtveispresentasjonen
