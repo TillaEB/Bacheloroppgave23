@@ -12,6 +12,9 @@ Oppsummering:
   - Fikk tilbakemelding fra veilederne på ting vi kan utbedre, skal få til det ila dagen
 - Fått hjelp til forsterkningskretsen av div forelesere på bygget, samt veiledere
   - Vurderer om vi skal gå litt vekk - kanskje PCB fikser alle problemene? Må begynne å bevege oss litt vekk fra denne og se litt fremover
+- Jobbet videre på forsterkningskretsen
+  - Gjør testing med ulike komponenter og samplingfrekvenser
+- Jobbet med automatisk bytte av filnavn
 
 Til neste gang:
 
