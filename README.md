@@ -5,15 +5,19 @@ Agenda:
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
 - Skrive mer på sluttrapporten
 - Få GPS-koordinatene på NMEA format
-- Fortsette på kretskort (PCB)
+- Fortsette på kretskort (PCB) ✅
+  - Autonom opptaker
+  - GPS
+- Teste på forsterkningskretsene
 
 Oppsummering:
+- Ferdigstilt kretskort (PCB) til autonom opptaker
 
 Til neste gang: 
 
 ## Onsdag 22.03.2023 🦾
 Agenda:
-- Ha midtveispresentasjon for veiledere ✅
+- Ha midtveispresentasjon for veiledere 
   - Rette opp i midtveispresentasjonen ✅
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
