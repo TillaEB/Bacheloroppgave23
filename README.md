@@ -24,6 +24,7 @@ Oppsummering:
     - Input for EXT T9iu (?) skruterminal
 
 Til neste gang: 
+- Bli ordentlig ferdig med førsteutkast til kretskortene
 
 ## Onsdag 22.03.2023 🦾
 Agenda:
