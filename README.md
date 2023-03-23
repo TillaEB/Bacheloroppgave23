@@ -18,6 +18,7 @@ Oppsummering:
   - Kretskortene ser bra ut i følge Endre, men vi avventer litt før vi bestiller 
   - Snakket med Endre og fått en liste over ting over ting vi kan bedre;
     - Kondensator 5 V - GND
+    - Legge inn motstander på A0 + en ledning på A1 som utgang ✅
     - Vin - GND - Skruterminal
     - Koble sammen Vin og GND på begge kretskortene
     - PPS puls går mellom kortene
