@@ -49,6 +49,42 @@ Agenda:
 Oppsummering:
 - Hatt midtveispresentasjon for veiledere
   - Fikk tilbakemelding fra veilederne på ting vi kan utbedre, skal få til det ila dagen
+
+          - Si hva en Hit hydrofon er,
+          - hvorfor gikk NERSC fra disse? 
+              - Problematisk 
+              - tok tid 
+              - lagret en sentrale plass 
+              - fikk ikke like god oppløsning vertikalt med drag
+
+          - ha med NMEA i kravspesifikasjon 
+
+          - Ha med det som ikke funket også 
+              - Først alt på en arduino - funket ikke 
+              - nå har vi to arduinoer som kan være smart hvis man vil dele opp systemet og f.eks kun måle GPS - ved isdrift, ha med i en båt, kan bygges videre på. 
+          - blokkdiagram 
+              - ting kan byttes ut / er ikke optimale 
+          - ting som ikke er bra bør også tas med 
+          - Kan nano brukes til GPS?
+          - Raspberry pi? 
+              - problem med software
+              - er en datamaskin i praksis 
+              - ikke godt egnet til automne oppgaver
+              - reduserer strømforbruket 
+
+          - Sjekket etter DC bias på oscilgioskopet 
+          - kondensator med (i hydrofonsignalet) 
+
+          - Vise hva ting er i et spektrogram ved tester: 
+              - tiden er bortover, 
+              - frekvensen er oppover
+              - amplitude
+              - målt tid i grått felt 
+              - Dc offset - vet ikke hvorfor det kommer 
+              - forklarer lydene 
+
+
+
 - Fått hjelp til forsterkningskretsen av div forelesere på bygget, samt veiledere
   - Vurderer om vi skal gå litt vekk - kanskje PCB fikser alle problemene? Må begynne å bevege oss litt vekk fra denne og se litt fremover
 - Jobbet videre på forsterkningskretsen
