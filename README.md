@@ -8,8 +8,8 @@ Agenda:
 - Fortsette på kretskort (PCB) ✅
   - Autonom opptaker ✅
   - GPS ✅
-- Teste på forsterkningskretsene
-- Blokkdiagram
+- Teste på forsterkningskretsene ✅
+- Starte på blokkdiagram ✅
 
 Oppsummering:
 - Ferdigstilt kretskort (PCB) til autonom opptaker
@@ -28,7 +28,13 @@ Oppsummering:
 - Startet på blokkdiagram
 
 Til neste gang: 
-- Bli ordentlig ferdig med førsteutkast til kretskortene
+- Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene
+- Tegne ferdig blokkdiagram og legge dette inn i presentasjonen
+- Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe?
+- Undersøke om vi kan få begge systemet til å starte med kun en knapp
+- Skrive mer på sluttrapporten
+- Få GPS-koordinatene på NMEA format
+- Høre med Endre om det vi har oppdatert på kretskortene holder?
 
 ## Onsdag 22.03.2023 🦾
 Agenda:
