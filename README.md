@@ -5,13 +5,15 @@ Agenda:
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
 - Skrive mer på sluttrapporten
 - Få GPS-koordinatene på NMEA format
-- Fortsette på kretskort (PCB) 
+- Fortsette på kretskort (PCB) ✅
   - Autonom opptaker ✅
   - GPS ✅
 - Teste på forsterkningskretsene
 
 Oppsummering:
 - Ferdigstilt kretskort (PCB) til autonom opptaker
+- Ferdigstilt kretskort (PCB) til GPSen
+- Prøver å få tak i Endre slik at han kan verifisere kretskortene våre
 
 Til neste gang: 
 
