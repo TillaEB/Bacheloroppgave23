@@ -1,8 +1,19 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 23.03.2023
+Agenda:
+- Rette opp alt i midtveispresentasjonen
+- Undersøke om vi kan få begge systemet til å starte med kun en knapp
+- Skrive mer på sluttrapporten
+- Få GPS-koordinatene på NMEA format
+
+Oppsummering:
+
+Til neste gang: 
+
 ## Onsdag 22.03.2023 🦾
 Agenda:
 - Ha midtveispresentasjon for veiledere ✅
-  - Rette opp i midtveispresentasjonen
+  - Rette opp i midtveispresentasjonen ✅
 - Få begge systemene til å starte med kun en knapp
 - Skrive mer på sluttrapporten 
 - Jobbe med automatisk bytte av filnavn ✅
