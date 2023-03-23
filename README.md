@@ -21,6 +21,7 @@ Oppsummering:
     - Koble sammen Vin og GND på begge kretskortene
     - PPS puls går mellom kortene
     - IDC kontakt på pin : 2, 3, 5, 9, GND
+      - ✅ GPS
     - Input for EXT T9iu (?) skruterminal
 
 Til neste gang: 
