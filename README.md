@@ -7,7 +7,7 @@ Agenda:
 - Få GPS-koordinatene på NMEA format
 - Fortsette på kretskort (PCB) 
   - Autonom opptaker ✅
-  - GPS
+  - GPS ✅
 - Teste på forsterkningskretsene
 
 Oppsummering:
