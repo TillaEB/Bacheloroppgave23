@@ -5,6 +5,7 @@ Agenda:
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
 - Skrive mer på sluttrapporten
 - Få GPS-koordinatene på NMEA format
+- Fortsette på kretskort (PCB)
 
 Oppsummering:
 
