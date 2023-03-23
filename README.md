@@ -9,7 +9,7 @@ Agenda:
   - Autonom opptaker ✅
   - GPS ✅
 - Teste på forsterkningskretsene ✅
-- Starte på blokkdiagram ✅
+- Blokkdiagram ✅
 
 Oppsummering:
 - Ferdigstilt kretskort (PCB) til autonom opptaker
@@ -26,11 +26,10 @@ Oppsummering:
       - ✅ GPS
       - ✅ Autonom opptaker
     - Input for EXT T9iu (?) skruterminal
-- Startet på blokkdiagram
+- Startet på blokkdiagram, blitt ferdig og lagt inn i presentasjonen
 
 Til neste gang: 
 - Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene
-- Tegne ferdig blokkdiagram og legge dette inn i presentasjonen
 - Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe?
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
 - Skrive mer på sluttrapporten
