@@ -14,6 +14,14 @@ Oppsummering:
 - Ferdigstilt kretskort (PCB) til autonom opptaker
 - Ferdigstilt kretskort (PCB) til GPSen
 - Prøver å få tak i Endre slik at han kan verifisere kretskortene våre
+  - Kretskortene ser bra ut i følge Endre, men vi avventer litt før vi bestiller 
+  - Snakket med Endre og fått en liste over ting over ting vi kan bedre;
+    - Kondensator 5 V - GND
+    - Vin - GND - Skruterminal
+    - Koble sammen Vin og GND på begge kretskortene
+    - PPS puls går mellom kortene
+    - IDC kontakt på pin : 2, 3, 5, 9, GND
+    - Input for EXT T9iu (?) skruterminal
 
 Til neste gang: 
 
