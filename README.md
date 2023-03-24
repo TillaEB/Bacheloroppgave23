@@ -1,5 +1,5 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Fredag 24.03.2023
+## Fredag 24.03.2023 
 Agenda:
 - Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene
 - Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe?
@@ -14,7 +14,7 @@ Til neste gang:
 - Teste utstyret på søndag
 - Gå gjennom midtveispresentasjonen
 
-## Torsdag 23.03.2023
+## Torsdag 23.03.2023 🍔
 Agenda:
 - Rette opp alt i midtveispresentasjonen
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
