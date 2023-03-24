@@ -13,6 +13,7 @@ Oppsummering:
 - Har gått gjennom midtveispresentasjonen, både selve presentasjonen og også manuset. Synes alt ser greit ut per nå - trenger kun å legge inn et bilde av kretsdiagrammet til forsterkningskretsen. Vet ikke hvilket jeg skal legge inn, og ønsker tilbakemelding fra veileder først. Videre må vi bare oppdatere timelistene og framdriften og få dette inn i presentasjonen - det kan vi gjøre på søndag eller mandag.
 - Virker som det er mulig å koble de to systemene sammen, ved å få at den ene arduinoen er en slave og den andre master. Krever en del ommbygging av kode.
   - https://forum.arduino.cc/t/best-way-to-send-signal-to-another-arduino/442668/11
+  - https://forum.arduino.cc/t/sending-a-pulse/59964
 
 Til neste gang:
 - Teste utstyret på søndag
