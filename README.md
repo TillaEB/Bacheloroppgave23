@@ -2,7 +2,7 @@
 ## Fredag 24.03.2023 
 Agenda:
 - Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene ✅
-- Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe?
+- Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe? ✅
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
 - Skrive mer på sluttrapporten
 - Få GPS-koordinatene på NMEA format
@@ -10,10 +10,12 @@ Agenda:
 
 Oppsummering:
 - Gjort ferdig de skjematiske tegningene (tror de skal være rett nå) (er litt usikker på en ting, men får ikke endret på det, kan vise på søndag), og lagt inn i midtveispresentasjonen
+- Har gått gjennom midtveispresentasjonen, både selve presentasjonen og også manuset. Synes alt ser greit ut per nå - trenger kun å legge inn et bilde av kretsdiagrammet til forsterkningskretsen. Vet ikke hvilket jeg skal legge inn, og ønsker tilbakemelding fra veileder først. Videre må vi bare oppdatere timelistene og framdriften og få dette inn i presentasjonen - det kan vi gjøre på søndag eller mandag.
 
 Til neste gang:
 - Teste utstyret på søndag
 - Gå gjennom midtveispresentasjonen
+  - Legge til alt som mangler (oppdaterte bilder av timelisten osv.)
 
 ## Torsdag 23.03.2023 🍔
 Agenda:
