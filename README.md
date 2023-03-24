@@ -3,7 +3,7 @@
 Agenda:
 - Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene ✅
 - Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe? ✅
-- Undersøke om vi kan få begge systemet til å starte med kun en knapp
+- Undersøke om vi kan få begge systemet til å starte med kun en knapp ✅
 - Skrive mer på sluttrapporten
 - Få GPS-koordinatene på NMEA format
 - Høre med Endre om det vi har oppdatert på kretskortene holder?
@@ -18,6 +18,10 @@ Til neste gang:
 - Teste utstyret på søndag
 - Gå gjennom midtveispresentasjonen
   - Legge til alt som mangler (oppdaterte bilder av timelisten osv.)
+- Teste om vi får til kode med kommunikasjon mellom arduinoene
+- Få GPS-koordinatene på NMEA form
+- Høre med Endre om det vi har oppdatert på kretskortene holder?
+- Skrive mer på sluttrapporten
 
 ## Torsdag 23.03.2023 🍔
 Agenda:
