@@ -1,7 +1,7 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Fredag 24.03.2023 
 Agenda:
-- Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene
+- Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene ✅
 - Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe?
 - Undersøke om vi kan få begge systemet til å starte med kun en knapp
 - Skrive mer på sluttrapporten
@@ -9,6 +9,7 @@ Agenda:
 - Høre med Endre om det vi har oppdatert på kretskortene holder?
 
 Oppsummering:
+- Gjort ferdig de skjematiske tegningene (tror de skal være rett nå) (er litt usikker på en ting, men får ikke endret på det, kan vise på søndag), og lagt inn i midtveispresentasjonen
 
 Til neste gang:
 - Teste utstyret på søndag
