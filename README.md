@@ -1,5 +1,5 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Søndag 26.03.2023 :cold:
+## Søndag 26.03.2023 🥶
 Agenda:
 - Teste utstyret ute ✅
 
@@ -8,7 +8,7 @@ Oppsummering:
 
 Til neste gang:
 
-## Fredag 24.03.2023 
+## Fredag 24.03.2023 :skull:
 Agenda:
 - Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene ✅
 - Gå ordentlig gjennom midtveispresentasjonen - mangler vi noe? ✅
