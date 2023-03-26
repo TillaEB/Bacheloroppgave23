@@ -1,4 +1,13 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Søndag 26.03.2023 :cold:
+Agenda:
+- Teste utstyret ute ✅
+
+Oppsummering:
+- Fikk testet utstyret ute og av en eller annen grunn fungerer typ ingenting nå. Setter oss derfor inn for å undersøke litt nærmere.
+
+Til neste gang:
+
 ## Fredag 24.03.2023 
 Agenda:
 - Bli ordentlig ferdig med skjematiske tegningene til kretsene og legge disse inn i presentasjonene ✅
