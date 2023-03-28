@@ -10,6 +10,16 @@ Agenda:
 Oppsummering:
 - Har hatt midtveispresentasjon, hvor vi fikk en del (uforutsette) spørsmål som vi har skrevet ned og ta i betraktning
 
+Spørsmål fra midtveispresentasjonen: 
+-	Hva er den vertikale oppløsningen til arduinoen, og er denne bra nok?
+10 bit, vet ikke om den er bra nok, kan eventuelt prøve med en 12 bit, ingen av veilederne har kommentert at det ikke er nok. Skal være en lavkostnadsløsning så arduino er jo rimelig å bruke. 
+
+-	Kunne man gjort noe med kretsen for å få andre forsterkninger ved for eksempel et lavt signal? 
+Vi svarte: annen verdi på kondensatorene. Fra veileder: kunne hatt en bryter som førte til en annen forsterkning/forsterkningskrets. 
+
+-	Hvordan setter man samplingsraten? Er den jevn? 
+
+
 Til neste gang:
 
 ## Søndag 26.03.2023 🥶
