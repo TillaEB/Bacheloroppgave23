@@ -1,7 +1,7 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
 ## Tirsdag 28.03.2023 :fire:
 Agenda:
-- Midtveispresentasjon
+- Midtveispresentasjon ✅
 - Teste om vi får til kode med kommunikasjon mellom arduinoene
 - Få GPS-koordinatene på NMEA form
 - Høre med Endre om det vi har oppdatert på kretskortene holder?
