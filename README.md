@@ -3,12 +3,14 @@
 Agenda:
 - Midtveispresentasjon ✅
 - Teste om vi får til kode med kommunikasjon mellom arduinoene
-- Få GPS-koordinatene på NMEA form
+- Få GPS-koordinatene på NMEA form ✅
 - Høre med Endre om det vi har oppdatert på kretskortene holder?
 - Skrive mer på sluttrapporten
 
 Oppsummering:
 - Har hatt midtveispresentasjon, hvor vi fikk en del (uforutsette) spørsmål som vi har skrevet ned og ta i betraktning
+- Fått GPS-koordinatene på NMEA form
+  - Spurt ekstern veileder om det er nødvendig med alle type stringer. Venter på svar
 
 Spørsmål fra midtveispresentasjonen: 
 -	Hva er den vertikale oppløsningen til arduinoen, og er denne bra nok?
