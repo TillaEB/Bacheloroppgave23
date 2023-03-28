@@ -23,6 +23,7 @@ Vi svarte: annen verdi på kondensatorene. Fra veileder: kunne hatt en bryter so
 
 
 Til neste gang:
+- OPAMP-krets kretskort
 
 ## Søndag 26.03.2023 🥶
 Agenda:
