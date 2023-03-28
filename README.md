@@ -1,4 +1,17 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 28.03.2023 :fire:
+Agenda:
+- Midtveispresentasjon
+- Teste om vi får til kode med kommunikasjon mellom arduinoene
+- Få GPS-koordinatene på NMEA form
+- Høre med Endre om det vi har oppdatert på kretskortene holder?
+- Skrive mer på sluttrapporten
+
+Oppsummering:
+- Har hatt midtveispresentasjon, hvor vi fikk en del (uforutsette) spørsmål som vi har skrevet ned og ta i betraktning
+
+Til neste gang:
+
 ## Søndag 26.03.2023 🥶
 Agenda:
 - Teste utstyret ute ✅
@@ -7,6 +20,7 @@ Oppsummering:
 - Fikk testet utstyret ute og av en eller annen grunn fungerer typ ingenting nå. Setter oss derfor inn for å undersøke litt nærmere.
 
 Til neste gang:
+- Gjennomgå midtveispresentasjon
 
 ## Fredag 24.03.2023 :skull:
 Agenda:
