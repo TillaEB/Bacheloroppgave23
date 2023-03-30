@@ -2,8 +2,8 @@
 ## Torsdag 30.03.2023
 Agenda:
 - Skrive på sluttrapporten
-- Ferdigstille kretskort
-- Lage kretskort med OPAMP
+- Ferdigstille kretskort ✅
+- Lage kretskort med OPAMP ✅
 
 Oppsummering:
 - Har laget forsterkningskrets-kretskort med OpAmp
