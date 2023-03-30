@@ -6,6 +6,9 @@ Agenda:
 - Lage kretskort med OPAMP
 
 Oppsummering:
+- Har laget forsterkningskrets-kretskort med OpAmp
+- Har ferdigstilt alle 3 kretskortene, og mener at de er klare for å sendes.
+  - Må få klarering fra Endre
 
 Til neste gang:
 
