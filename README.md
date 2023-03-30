@@ -1,4 +1,14 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 30.03.2023
+Agenda:
+- Skrive på sluttrapporten
+- Ferdigstille kretskort
+- Lage kretskort med OPAMP
+
+Oppsummering:
+
+Til neste gang:
+
 ## Tirsdag 28.03.2023 :fire:
 Agenda:
 - Midtveispresentasjon ✅
