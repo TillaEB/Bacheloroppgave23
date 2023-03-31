@@ -1,4 +1,13 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Fredag 31.03.2023
+Agenda:
+- Skrive på sluttrapport
+- Få klarering av Endre på kretskortene
+
+Oppsummering:
+
+Til neste gang:
+
 ## Torsdag 30.03.2023
 Agenda:
 - Skrive på sluttrapporten
@@ -11,6 +20,7 @@ Oppsummering:
   - Må få klarering fra Endre
 
 Til neste gang:
+- Få klarering av Endre
 
 ## Tirsdag 28.03.2023 :fire:
 Agenda:
