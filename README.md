@@ -5,6 +5,7 @@ Agenda:
 - Få klarering av Endre på kretskortene
 
 Oppsummering:
+- Tror jeg er ferdig med kretskortene, og venter på klarering - forventer at noe er feil:)
 
 Til neste gang:
 
