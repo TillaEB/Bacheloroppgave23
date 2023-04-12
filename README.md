@@ -1,4 +1,17 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Onsdag 12.04.2023
+Long time no see...
+
+Agenda:
+- Møte hos NERSC for å prøve ut klær og sko ✅ 
+- Skrive på sluttrapport
+
+Oppsummering:
+- Vært hos NERSC og prøvd klær og sko, alt passet som det skulle. Klargjør for møtet om en uke.
+- Vi har fått kretskortene våres :D
+
+Til neste gang:
+
 ## Fredag 31.03.2023
 Agenda:
 - Skrive på sluttrapport
@@ -6,6 +19,7 @@ Agenda:
 
 Oppsummering:
 - Tror jeg er ferdig med kretskortene, og venter på klarering - forventer at noe er feil:)
+- Fått sendt av gårde designet til kretskortene, venter på å få de IRL.
 
 Til neste gang:
 
