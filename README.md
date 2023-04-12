@@ -17,6 +17,7 @@ Oppsummering:
 Til neste gang:
 - Få GPSen på GGA format (NMEA)
 - Skrive på sluttrapport
+- Gå gjennom loddingen med Endre
 
 ## Fredag 31.03.2023 	:hatching_chick:
 Agenda:
