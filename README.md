@@ -1,21 +1,24 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Onsdag 12.04.2023
+## Onsdag 12.04.2023 :woman_mechanic:
 Long time no see...
 
 Agenda:
 - Møte hos NERSC for å prøve ut klær og sko ✅ 
 - Skrive på sluttrapport
-- Lodde på kretskortene
+- Lodde på kretskortene ✅
 - Få GPSen på GGA format (NMEA)
 
 Oppsummering:
 - Vært hos NERSC og prøvd klær og sko, alt passet som det skulle. Klargjør for møtet om en uke.
 - Vi har fått kretskortene våres :D
-  - Merket to feil fram til nå, må høre med Endre om det er mulig å bruke de likevel.
+  - Merket to feil fram til nå, må høre med Endre om det er mulig å bruke de likevel. Oppdatering : det var null problem og de kan fortsatt brukes.
+  - Har loddet det vi 100% vet skal være på kretskortene. Må regne på hva de andre komponentene skal ligge på.
 
 Til neste gang:
+- Få GPSen på GGA format (NMEA)
+- Skrive på sluttrapport
 
-## Fredag 31.03.2023
+## Fredag 31.03.2023 	:hatching_chick:
 Agenda:
 - Skrive på sluttrapport
 - Få klarering av Endre på kretskortene
