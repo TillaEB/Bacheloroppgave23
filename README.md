@@ -11,6 +11,7 @@ Agenda:
 Oppsummering:
 - Vært hos NERSC og prøvd klær og sko, alt passet som det skulle. Klargjør for møtet om en uke.
 - Vi har fått kretskortene våres :D
+  - Merket to feil fram til nå, må høre med Endre om det er mulig å bruke de likevel.
 
 Til neste gang:
 
