@@ -5,6 +5,7 @@ Long time no see...
 Agenda:
 - Møte hos NERSC for å prøve ut klær og sko ✅ 
 - Skrive på sluttrapport
+- Lodde på kretskortene
 
 Oppsummering:
 - Vært hos NERSC og prøvd klær og sko, alt passet som det skulle. Klargjør for møtet om en uke.
