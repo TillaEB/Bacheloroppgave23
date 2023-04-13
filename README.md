@@ -1,4 +1,16 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 13.04.2023
+Agenda:
+- Bestemme oss for LaTex eller Word.
+- Skrive på og strukturere sluttrapport
+- Få GPS på GGA format (NMEA)
+- Gå gjennom loddingen med Endre
+  - Hvis vi har noe mer å lodde som vi vet skal være med kan vi gjøre dette før vi møter Endre.
+
+Oppsummering:
+
+Til neste gang:
+
 ## Onsdag 12.04.2023 :woman_mechanic:
 Long time no see...
 
