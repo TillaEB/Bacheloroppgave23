@@ -9,6 +9,8 @@ Agenda:
   - teste kretskortene
 
 Oppsummering:
+- Gått gjennom lodding med Endre, og loddet litt mer. 
+- Regnet ut forsterkningskretsen vår med OpAmp, og funnet ut hvilke komponenter som er fornuftige å bruke
 
 Til neste gang:
 
