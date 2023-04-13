@@ -11,8 +11,15 @@ Agenda:
 Oppsummering:
 - Gått gjennom lodding med Endre, og loddet litt mer. 
 - Regnet ut forsterkningskretsen vår med OpAmp, og funnet ut hvilke komponenter som er fornuftige å bruke
+- Testet ut OpAmp kretskortet, fungerer via osciolloscop, men ikke som opptaker enda 
+  - Signalet går igjennom, så det er noe feil med opptakeren (knappen)
 
 Til neste gang:
+- Skrive på og strukturere teksten
+- Få opptaker kretsen med OpAmp til å fungere 100% (med lys og knapp)
+- Få GPS på GGA format (NMEA) 
+- Bestemme oss for LaTex eller Word
+- Pakke koffert til båtreise neste uke
 
 ## Onsdag 12.04.2023 :woman_mechanic:
 Long time no see...
