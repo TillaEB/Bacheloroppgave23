@@ -6,6 +6,7 @@ Agenda:
 - Få GPS på GGA format (NMEA)
 - Gå gjennom loddingen med Endre
   - Hvis vi har noe mer å lodde som vi vet skal være med kan vi gjøre dette før vi møter Endre.
+  - teste kretskortene
 
 Oppsummering:
 
