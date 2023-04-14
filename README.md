@@ -1,4 +1,12 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Fredag 14.04.2023
+Agenda:
+
+Oppsummering:
+
+
+Til neste gang:
+
 ## Torsdag 13.04.2023
 Agenda:
 - Bestemme oss for LaTex eller Word.
