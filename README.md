@@ -1,9 +1,15 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
-## Fredag 14.04.2023
+## Tirsdag 18.04.2023
 Agenda:
+- Lodde ferdig kretskortet slik at det fungerer
+- Skrive på og strukturere teksten
+- Få opptaker kretsen med OpAmp til å fungere 100% (med lys og knapp)
+- Få GPS på GGA format (NMEA) 
+- Bestemme oss for LaTex eller Word
+- Pakke koffert til båtreise neste uke
+- Klargjøre til møte
 
 Oppsummering:
-
 
 Til neste gang:
 
