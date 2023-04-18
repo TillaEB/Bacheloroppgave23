@@ -7,6 +7,7 @@ Agenda:
 - Bestemme oss for LaTex eller Word
 - Pakke koffert til båtreise på fredag
 - Klargjøre til møte
+- WAV. på matlab til båtreisen
 
 Oppsummering:
 
