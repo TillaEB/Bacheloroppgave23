@@ -12,6 +12,7 @@ Agenda:
 Oppsummering:
 - Laget forslag på struktur til teksten
 - Klartgjort til møtet - sagt til intern veileder hva vi forventer at morgensdagens møte skal handle om
+- Bestemt oss for å bruke Word
 
 Til neste gang:
 
