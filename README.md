@@ -15,6 +15,10 @@ Oppsummering:
 - Bestemt oss for å bruke Word
 
 Til neste gang:
+- ferdig kretskort 
+- ordne ny boks 
+- teste ved vannet 
+- pakke til turen 
 
 ## Torsdag 13.04.2023
 Agenda:
