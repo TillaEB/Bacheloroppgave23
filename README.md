@@ -3,18 +3,18 @@
 Agenda:
 
 Hva vi må ordne til KV Tor tur:
-- Pakke til turen: (i koffert)
-    - Hydrofon
-    - Kretskort
-    - Boks med komponenter
+- Pakke til turen: (i boks)✅
+    - Hydrofon✅
+    - Kretskort✅
+    - Boks med komponenter✅
         - Motstandere 
         - Ekstra ledninger 
         - To sd kort moduler 
         - SD kort ting til pc 
-    - Power banker
-    - Arduino pc 
-    - SD kort pc 
-- Bli ferdig med kretskort x 2
+    - Power banker✅
+    - Arduino pc✅
+    - SD kort pc✅
+- Bli ferdig med kretskort x 2✅
 - Ordne ny boks
 - Lage rapport mal 
 - Teste kretskort
@@ -23,8 +23,14 @@ Hva vi må ordne til KV Tor tur:
 Oppsummering:
 - Har klart å ødlegge det kretskortet som fungerte i går, men har fikset et nytt et som fungerer. Hvis vi får mer tid i dag skal vi lage et til kretskort slik at vi har to fungerende kretskort vi kan ta med oss på turen. 
 - Skal ut og teste kretskortet og hydrofonen ved Solheimsvatnet med Endre. 
+- Endre hjalp oss med å lage en strømforsnyning på 9V
+- Ordnet til turen vår med KV Tor. Har med mange forskjellige komponenter slik at vi kan teste med mye forskjellig.
+- Fikset .WAV på matlab
 
 Til neste gang:
+- Skrive på sluttrapport
+- Få GPS på GGA format (NMEA) 
+- Automatisk filnavnbytte
 
 ## Tirsdag 18.04.2023
 Agenda:
