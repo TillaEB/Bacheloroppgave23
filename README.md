@@ -1,4 +1,29 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 20.04.2023
+Agenda:
+
+Hva vi må ordne til KV Tor tur:
+- Pakke til turen: (i koffert)
+    - Hydrofon
+    - Kretskort
+    - Boks med komponenter
+        - Motstandere 
+        - Ekstra ledninger 
+        - To sd kort moduler 
+        - SD kort ting til pc 
+    - Power banker
+    - Arduino pc 
+    - SD kort pc 
+- Bli ferdig med kretskort x 2
+- Ordne ny boks
+- Lage rapport mal 
+- Teste kretskort
+
+
+Oppsummering:
+
+Til neste gang:
+
 ## Tirsdag 18.04.2023
 Agenda:
 - Skrive på og strukturere teksten
