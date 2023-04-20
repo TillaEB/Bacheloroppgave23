@@ -21,6 +21,8 @@ Hva vi må ordne til KV Tor tur:
 
 
 Oppsummering:
+- Har klart å ødlegge det kretskortet som fungerte i går, men har fikset et nytt et som fungerer. Hvis vi får mer tid i dag skal vi lage et til kretskort slik at vi har to fungerende kretskort vi kan ta med oss på turen. 
+- Skal ut og teste kretskortet og hydrofonen ved Solheimsvatnet med Endre. 
 
 Til neste gang:
 
