@@ -1,4 +1,17 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Fredag 21.04.2023 :ship:
+Agenda:
+- Teste hydrofonen og utstyret vårt. 
+- Skrive i rapporten evt resultater vi får
+- Diskutere resultater med ekstern veileder 
+
+Oppsummering:
+- Hatt 1 runde med testing av utstyret vårt, ikke helt fornøyd med resultatet så har forespurt om en tur til. 
+- Skrevet litt i rapporten
+- Skrevet ned stikkord av hvordan de ulike testene har gått
+
+Til neste gang:
+
 ## Torsdag 20.04.2023
 Agenda:
 
