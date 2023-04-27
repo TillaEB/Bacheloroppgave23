@@ -1,4 +1,18 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Torsdag 27.04.2023
+Agenda:
+- Skrive på sluttrapport
+- Få GPS på GGA format (NMEA) ✅ 
+- Automatisk filnavnbytte
+- Fikse kretskortet til GPSen
+- Planlegge hvordan vi skal gjøre det fremover i forhold til eksamen osv
+- Gå gjennom sluttrapporten
+
+Oppsummering:
+- Fått GPS koordiantene lagret på NMEA struktur
+
+Til neste gang:
+
 ## Fredag 21.04.2023 :ship:
 Agenda:
 - Teste hydrofonen og utstyret vårt. 
