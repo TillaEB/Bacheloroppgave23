@@ -1,4 +1,12 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 02.05.2023
+Agenda:
+- SKRIVE PÅ SLUTTRAPPORTEN
+
+Oppsummering:
+
+Til neste gang:
+
 ## Torsdag 27.04.2023
 Agenda:
 - Skrive på sluttrapport✅
