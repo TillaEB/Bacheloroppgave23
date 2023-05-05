@@ -1,4 +1,22 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Fredag 05.05.2023
+Agenda:
+- Veiledningsmøte med intern veileder
+    - Klargjøre oss til dette møtet
+- Skrive på sluttrapporten
+- Levere refleksjonsnotatene våre
+
+Oppsummering:
+- Dette blir også en "halv dag" fordi vi har eksamener i nærmeste framtid
+- Vi har levert refleksjonsnotatene våre :heart:
+- Skal ha møte med intern veileder og må forberede oss til det
+    - Skal fremvise/sende over et veeeldig førsteutkast av rapporten. Denne har mangler, men er mer for en indikasjon til hvordan vi ligger ann. Hva mer skal tas med, og hva skal eventuelt fjernes? Er det noe vi mangler, eller gjentar vi oss selv veldig mye?
+    - Når skal vi ha munltlig presentasjon? Vi vil helst ha det i uke 23 eller uke 24. 
+
+Til neste gang:
+- Bli ferdig med oppgaven
+- Bestå eksamener
+
 ## Torsdag 04.05.2023
 Agenda:
 - Skrive på sluttrapporten
