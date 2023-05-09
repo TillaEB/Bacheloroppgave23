@@ -1,4 +1,21 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Tirsdag 09.05.2023
+Agenda:
+- Prøve å finne Endre slik at vi kan bli ferdig med noen ting vi lurer på
+    - Oscilloscopet
+    - Kretskort
+    - Bryter og boks
+    - Utregninger
+- Se på tilbakemelding fra intern veileder ✅
+- Skrive på sluttrapport
+
+Oppsummering:
+- Rettet opp i endringene gitt av intern veileder, men må gå gjennom kommentarene
+
+Til neste gang:
+- Bli ferdig med oppgaven
+- Bestå eksamener
+
 ## Fredag 05.05.2023
 Agenda:
 - Veiledningsmøte med intern veileder
