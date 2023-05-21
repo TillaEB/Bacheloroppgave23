@@ -9,9 +9,9 @@ eller om SD-kortet mangler. Hvis LED-lampen blinker med en gang strømforsyning 
 
 Krav for opplastning/kjøring av programmet: 
 SD-kort
-SD-kort modul
+SD-kort-modul
 Lydinngangsenhet - i vårt tilfelle en hydrofon (mikrofon)
-Arduino Uno
+Arduino UNO
  
 
 Steg for å kunne kjøre programmet: 
@@ -19,7 +19,7 @@ Steg for å kunne kjøre programmet:
     https://github.com/TMRh20/TMRpcm (må dobbeltsjekke at det er den rette linken) 
     https://www.arduino.cc/reference/en/libraries/sd/
 
-2. Åpne pcmConfig.h i en teskt editor (?) (eller var det åpne rett fra nedlastinger?)
+2. Åpne pcmConfig.h i en text editor
   2.1: Ved bruk av en Ardunio Uno eller ikke-Mega brett: #define buffSize 128
   2.2: Fjern kommentar ved #define ENABLE_RECORDING og #define BLOCK_COUNT 10000UL
 
