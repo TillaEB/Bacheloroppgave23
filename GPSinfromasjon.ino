@@ -8,8 +8,8 @@ Loggingen avsluttes ved å ta ut SD-kortet fra SD-kort modulen.
 Krav for opplastning/kjøring av programmet: 
 SD-kort 
 GPS-modul 
-SD-kort modul
-Arduino Uno
+SD-kort-modul
+Arduino UNO
 
 Steg for å komme kjøre programmet: 
 1. Last ned følgende biblioteker: 
@@ -27,7 +27,7 @@ Steg for å komme kjøre programmet:
 #include <SPI.h>
 
 // Definerer variabler
-SoftwareSerial gpsSerial(7, 6);           // RX og TX pinner for the GPS-modulen
+SoftwareSerial gpsSerial(7, 6);           // RX og TX pinner for GPS-modulen
 TinyGPSPlus gps;
 File gpsFile;                             // Lager en fil
 
@@ -57,7 +57,7 @@ void buttonCheck()                        // Metode for å sjekke statusen til b
 
 void setup()
 {
-  Serial.begin(9600);                     // Starter seriell kommunikasjon, 9600 bps er baudrater
+  Serial.begin(9600);                     // Starter seriell kommunikasjon, 9600 bps er baudraten
   gpsSerial.begin(9600);                  // Starter GPS-en
   
   button.attach(2,INPUT_PULLUP);          // Bryter aktivert med pull-up motstand
