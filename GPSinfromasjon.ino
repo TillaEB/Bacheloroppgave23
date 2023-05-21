@@ -79,7 +79,7 @@ void loop()
   buttonCheck();                                      // Ser om bryteren er på
   if(LogFlag == 1){                                   // Start å logge
     digitalWrite(LedPin, HIGH);                       // LED lyser
-    gpsFile = SD.open("nmeatest.txt", FILE_WRITE);    // Oppretter en ny fil for skriving
+    gpsFile = SD.open("gpsfil.txt", FILE_WRITE);    // Oppretter en ny fil for skriving
 
   if (gpsFile){                                       // Sjekker om filen blir åpnet riktig
     gpsFile.close();
@@ -95,7 +95,7 @@ void loop()
     {
       if (gps.location.isUpdated())
       {
-        gpsFile = SD.open("nmeatest.txt", FILE_WRITE);
+        gpsFile = SD.open("gpsfil.txt", FILE_WRITE);
         
         if (gpsFile){                                 // Hvis filen kan åpnes ...
         gpsFile.print("$GPGGA,");                     // Skriver GGA setningen til filen
