@@ -16,7 +16,7 @@ Arduino UNO
 
 Steg for å kunne kjøre programmet: 
 1. Last ned biblioteker gitt ved: 
-    https://github.com/TMRh20/TMRpcm (må dobbeltsjekke at det er den rette linken) 
+    https://github.com/TMRh20/TMRpcm
     https://www.arduino.cc/reference/en/libraries/sd/
 
 2. Åpne pcmConfig.h i en text editor
