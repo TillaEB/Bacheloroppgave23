@@ -87,14 +87,14 @@ void loop() {
       started = false; 
       stopped = true;
       digitalWrite(led, HIGH);                                                     //Lampen lyser under opptaket
-      audio.startRecording("solh5.wav",32000,A0);                                  //("filnavn.wav", samplefrekvensen, analog utgangspin)
+      audio.startRecording("lydfilnavn.wav",32000,A0);                                  //("filnavn.wav", samplefrekvensen, analog utgangspin)
       delay(1000);
       
       }
     else if(ss1%2 != 0 && stopped){
       Serial.println("Recording Stopped");                                         //Stopper opptaket
       digitalWrite(led, 0);                                                        //Lampen slutter å lyse
-      audio.stopRecording("solh5.wav");                                            //Opptaket blir lagret under ("filnavn.wav)
+      audio.stopRecording("lydfilnavn.wav");                                            //Opptaket blir lagret under ("filnavn.wav)
       started = true; 
       stopped = false;
       delay(1000);
