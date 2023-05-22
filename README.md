@@ -6,13 +6,13 @@ Vi vil takke for godt samarbeid med både vår interne og eksterne veileder. Vi 
 
 ## Tirsdag 09.05.2023
 Agenda:
-- Prøve å finne Endre slik at vi kan bli ferdig med noen ting vi lurer på
-    - Oscilloscopet
-    - Kretskort
-    - Bryter og boks
+- Prøve å finne Endre slik at vi kan bli ferdig med noen ting vi lurer på ✅
+    - Oscilloscopet✅
+    - Kretskort✅
+    - Bryter og boks✅
     - Utregninger
 - Se på tilbakemelding fra intern veileder ✅
-- Skrive på sluttrapport
+- Skrive på sluttrapport✅
 
 Oppsummering:
 - Rettet opp i endringene gitt av intern veileder, men må gå gjennom kommentarene
@@ -23,10 +23,10 @@ Til neste gang:
 
 ## Fredag 05.05.2023
 Agenda:
-- Veiledningsmøte med intern veileder
-    - Klargjøre oss til dette møtet
-- Skrive på sluttrapporten
-- Levere refleksjonsnotatene våre
+- Veiledningsmøte med intern veileder✅
+    - Klargjøre oss til dette møtet✅
+- Skrive på sluttrapporten✅
+- Levere refleksjonsnotatene våre✅
 
 Oppsummering:
 - Dette blir også en "halv dag" fordi vi har eksamener i nærmeste framtid
@@ -41,9 +41,9 @@ Til neste gang:
 
 ## Torsdag 04.05.2023
 Agenda:
-- Skrive på sluttrapporten
-- Gå gjennom sluttrapporten - hva mangler vi?
-- Skrive på refleksjonsnotat
+- Skrive på sluttrapporten✅
+- Gå gjennom sluttrapporten - hva mangler vi?✅
+- Skrive på refleksjonsnotat✅
 
 Oppsummering:
 - Dette blir en "halv dag" da vi har eksamener i nærmeste framtid
@@ -65,9 +65,9 @@ Agenda:
 - Skrive på sluttrapport✅
 - Få GPS på GGA format (NMEA) ✅ 
 - Automatisk filnavnbytte
-- Fikse kretskortet til GPSen
+- Fikse kretskortet til GPSen✅
 - Planlegge hvordan vi skal gjøre det fremover i forhold til eksamen osv ✅
-- Gå gjennom sluttrapporten
+- Gå gjennom sluttrapporten✅
 
 Oppsummering:
 - Fått GPS koordiantene lagret på NMEA struktur
@@ -78,9 +78,9 @@ Til neste gang:
 
 ## Fredag 21.04.2023 :ship:
 Agenda:
-- Teste hydrofonen og utstyret vårt. 
-- Skrive i rapporten evt resultater vi får
-- Diskutere resultater med ekstern veileder 
+- Teste hydrofonen og utstyret vårt. ✅
+- Skrive i rapporten evt resultater vi får✅
+- Diskutere resultater med ekstern veileder✅ 
 
 Oppsummering:
 - Hatt 1 runde med testing av utstyret vårt, ikke helt fornøyd med resultatet så har forespurt om en tur til. 
@@ -124,11 +124,11 @@ Til neste gang:
 
 ## Tirsdag 18.04.2023
 Agenda:
-- Skrive på og strukturere teksten
+- Skrive på og strukturere teksten✅
 - Få opptaker kretsen med OpAmp til å fungere 100% (med lys og knapp)
 - Få GPS på GGA format (NMEA) 
-- Bestemme oss for LaTex eller Word
-- Pakke koffert til båtreise på fredag
+- Bestemme oss for LaTex eller Word✅
+- Pakke koffert til båtreise på fredag✅
 - Klargjøre til møte
 - WAV. på matlab til båtreisen
 
@@ -148,7 +148,7 @@ Agenda:
 - Bestemme oss for LaTex eller Word.
 - Skrive på og strukturere sluttrapport
 - Få GPS på GGA format (NMEA)
-- Gå gjennom loddingen med Endre
+- Gå gjennom loddingen med Endre✅
   - Hvis vi har noe mer å lodde som vi vet skal være med kan vi gjøre dette før vi møter Endre. ✅
   - teste kretskortene
 
