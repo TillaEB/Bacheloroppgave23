@@ -1,4 +1,9 @@
 # Bacheloroppgave :love_letter: :woman_technologist: :whale: :ice_cube: :ship: :ocean: :snowflake:
+## Mandag 22.05.2023 🤩
+De siste ukene har kun gått til skriving av sluttrapporten, og det har derfor ikke føltes nødvendig å oppdatere her. Oppgaven er så og si i mål i føler oss fornøyd med resultatet. 
+
+Vi vil takke for godt samarbeid med både vår interne og eksterne veileder. Vi har satt veldig pris på alle tilbakemeldingene vi har fått.
+
 ## Tirsdag 09.05.2023
 Agenda:
 - Prøve å finne Endre slik at vi kan bli ferdig med noen ting vi lurer på
